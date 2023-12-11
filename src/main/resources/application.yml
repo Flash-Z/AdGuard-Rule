@@ -52,7 +52,7 @@ application:
       #- 'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt' #name: GoodbyeAds
       #- 'https://www.trli.club/ad-hosts/ad-hosts-sqlist/ad-adguardhome-dnstype.txt' #name: 冷莫(trli)AdHosts-Sqlist
       #- 'https://file.trli.club:2087/ad-youtube-hosts/ad-youtube-adguardhome-dnstype.txt' #name: 冷莫(trli)Ad-YouTuBe-Hosts
-      # - 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt' #name: 杏稍AdRules DNS List
+      - 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt' #name: 杏稍AdRules DNS List
       - 'https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/AdGuard/Advertising/Advertising.txt' #name: AdGuard_blackmatrix7合并
       - 'https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt' #name: 知乎 普通版
       #- 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt' #name: 217heidai/adblockfilters去重合并(比较大)
