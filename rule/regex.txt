@@ -1,4 +1,4 @@
-# Update time: 2023-12-11 14:57:51
+# Update time: 2023-12-11 20:37:22
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -7,11 +7,14 @@
 ||host*.nti.nl^
 ||matt.mercadolibre.
 ||clog*.yuanfudao.com^
+||gtmdev.jabra.
 ||mapi-log.qoo*.jp^
+||dn*.ixinwei.com^
 ||adservice.google.
 ||sd.yhzzzs*.com^
 ||analytics-*-nfl.yinzcam.com^
 ||analytics-api.dvdfab.
+||host*.carl-ras.dk^
 ||ad*.on.cc^
 ||host*.ncoi.nl^
 ||log*-applog-*.tiktokv.com^
@@ -45,6 +48,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||bd*-ys.km.com^
 ||cnt.hd21.
 ||ce-global-track-*.amazonaws.com^
+||d*.ruiwen.com^
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
 ||cnt.nuvid.
@@ -54,6 +58,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||gscounters.*.gigya.com^
 ||c*hit.zerkalo.io^
 ||mcs-va-*.tiktokv.com^
+||events-api*.outfit7.com^
 ||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ||analytics.streamfab.
@@ -61,10 +66,12 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||stat.*.v-56.com^
 ||adcounter*.uptolike.ru^
 ||ad*.ettoday.net^
+||log-collector.shopee.
 ||ads*-normal*.zijieapi.com^
 ||beacons*.gvt3.com^
 ||js.*2023*.xyz^
 ||ac*.faxingchina.com^
+||flurry.agentportal.*.yahoodns.net^
 ||stats.zone-annuaire.
 ||logservice-*.platform.dbankcloud.cn^
 ||analyzer*.fc2.com^
@@ -77,6 +84,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
 ||stats*.credit-cooperatif.coop^
+||log*.vietnamplus.vn^
 ||mcdp-*.outbrain.com^
 ||a*.smlog.co.kr^
 ||api*.amplitude.com^
@@ -140,7 +148,6 @@ directtrack.*.js
 ||liveweb*.msstatic.com^
 analytics-*.aasaam.com
 ||an.yandex.
-||gtmdev.jabra.
 ||sell*.etlong.com^
 ||tracking.olx.
 ||ad-*.net^
@@ -183,7 +190,6 @@ Banner468x60
 ||dm*.yxlady.com^
 ||ablen*.tk^
 ||report*.appmetrica.webvisor.com^
-||log-collector.shopee.
 ||impservice*.yodao.com^
 ||goodadvert.
 ||oiwjcsh*.top^
@@ -298,7 +304,6 @@ piao.js|
 MRelateFeedAd
 ||brucelead*.com^
 ||player-feedback*.glomex.*^
-||log*.vietnamplus.vn^
 ||sensorsdata*.read.duokan.com^
 ||i-*.ci360.sas.com^
 ||gamenguide.com*adbk
@@ -352,7 +357,6 @@ MRelateFeedAd
 ||teleriumads-*.netdna-ssl.com^
 ||rgfftupf.
 ||counter*.stat.ovh^
-||host*.carl-ras.dk^
 ||admaster*.*^
 ||sax.sina.
 ||ads.livetv*.me^
@@ -378,10 +382,8 @@ MRelateFeedAd
 ||alishop*.ru^
 ||impservice*.youdao.com^
 ||pixel*.adswizz.com
-||d*.ruiwen.com^
 ||banner*.kinogo.by^
 ||sock*-goguardian.pusher.com^
-||events-api*.outfit7.com^
 ||linkexchange.
 ||block.s*block.com^
 ||pingfore*.*^
@@ -392,7 +394,6 @@ MRelateFeedAd
 ||gg*.miguvideo.com^
 ||ads*.bojijulebu.com^
 ||yazhouyu.
-||flurry.agentportal.*.yahoodns.net^
 ||rtlog*.tiktokv.com^
 ||ads.*.kugou.com^
 ||rb*.design.ru^
@@ -455,7 +456,6 @@ rgmechanicsgames.com*VPN.exe
 ||adx-
 ||cloudservice*.kingsoft-office-service.com^
 ||smartads.
-||dn*.ixinwei.com^
 ||rum*.a.trbcdn.net^
 ||w*.*skwai.com^
 ||liveme-sensors-collect2-*.amazonaws.com^

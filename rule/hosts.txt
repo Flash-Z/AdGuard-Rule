@@ -1,4 +1,4 @@
-# Update time: 2023-12-11 14:57:51
+# Update time: 2023-12-11 20:37:22
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -2056,8 +2056,8 @@
 0.0.0.0 images.ads.fairfax.com.au
 127.0.0.1 secure.lomadee.com
 127.0.0.1 sdk.iad-03.appboy.com
-0.0.0.0 hk2sch130021830.wns.windows.com
 0.0.0.0 seed-19.nimiq.network
+0.0.0.0 hk2sch130021830.wns.windows.com
 127.0.0.1 a1411.casalemedia.com
 127.0.0.1 beacon.qq.com
 0.0.0.0 www.adspoll.com
@@ -6393,8 +6393,8 @@
 127.0.0.1 lciapi.ninthdecimal.com
 0.0.0.0 heuither.sbs
 127.0.0.1 bc.marfeel.com
-0.0.0.0 hk2sch130020936.wns.windows.com
 0.0.0.0 xmr.cool
+0.0.0.0 hk2sch130020936.wns.windows.com
 0.0.0.0 zfm.oewabox.at
 0.0.0.0 ehg-peoplesoft.hitbox.com
 127.0.0.1 eyeblaster.akadns.net
@@ -7223,8 +7223,8 @@
 0.0.0.0 cyberpanel.fr
 127.0.0.1 static.mparticle.com
 127.0.0.1 ads.gionee.com
-0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 premiumstats.xyz
+0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 kh1.kimhasa.com
 0.0.0.0 cds20495.lcy.llnw.net
 127.0.0.1 configv2.unityads.unity3d.com
@@ -9884,8 +9884,8 @@
 0.0.0.0 homesclick.112.2o7.net
 0.0.0.0 metrics.thefa.com
 0.0.0.0 valtrex.3.p2l.info
-0.0.0.0 hk2sch130021450.wns.windows.com
 0.0.0.0 cnt.statistic.date
+0.0.0.0 hk2sch130021450.wns.windows.com
 0.0.0.0 west.05tz2e9.com
 0.0.0.0 e3.wetterkameras.com
 0.0.0.0 superstats.com
@@ -16786,8 +16786,8 @@
 127.0.0.1 uk-script.dotmetrics.net
 0.0.0.0 izli.fr
 0.0.0.0 il.5.p2l.info
-0.0.0.0 hk2sch130021526.wns.windows.com
 0.0.0.0 bitcoin-cashcard.com
+0.0.0.0 hk2sch130021526.wns.windows.com
 0.0.0.0 www.adservtech.com
 0.0.0.0 c.ca.msn.com
 0.0.0.0 coinhits.com
