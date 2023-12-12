@@ -1,4 +1,4 @@
-# Update time: 2023-12-12 09:22:59
+# Update time: 2023-12-12 20:36:28
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -7573,6 +7573,7 @@
 0.0.0.0 d2o9ozfswytaqz.cloudfront.net
 0.0.0.0 adtech.com
 0.0.0.0 www.1guy1cock.com
+0.0.0.0 fedex-rescheduel-date.com
 0.0.0.0 effexor-xr.1.p2l.info
 0.0.0.0 portredirect.net
 0.0.0.0 kelder.nl
