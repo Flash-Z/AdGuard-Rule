@@ -1,4 +1,4 @@
-# Update time: 2023-12-14 09:21:09
+# Update time: 2023-12-14 20:36:02
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -5003,6 +5003,7 @@
 0.0.0.0 www.bryantaylor.free-online.co.uk
 0.0.0.0 y0.extreme-dm.com
 0.0.0.0 id11938.luxup.ru
+0.0.0.0 e-trn-incm.com
 0.0.0.0 glassjaw.fr
 0.0.0.0 kixer.com
 0.0.0.0 onedrive-sn.com
