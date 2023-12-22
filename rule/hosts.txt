@@ -1,4 +1,4 @@
-# Update time: 2023-12-21 20:35:04
+# Update time: 2023-12-22 09:19:54
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -8483,6 +8483,7 @@
 0.0.0.0 1man2needles.com
 0.0.0.0 faggotry.com
 0.0.0.0 passivemarcoanyhow.com
+0.0.0.0 2g312kn32qfy-1323053341.cos.ap-bangkok.myqcloud.com
 0.0.0.0 counter1.bravenet.com
 0.0.0.0 ad131m.adk2.co
 0.0.0.0 te.scrippsnetworksprivacy.com
