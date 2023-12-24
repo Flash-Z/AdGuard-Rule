@@ -1,4 +1,4 @@
-# Update time: 2023-12-24 09:25:29
+# Update time: 2023-12-24 20:32:26
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -5899,6 +5899,7 @@
 0.0.0.0 ads.nola.com
 0.0.0.0 ads.theindependent.com
 0.0.0.0 netcomm.spinbox.net
+0.0.0.0 interac1-ssl2.info
 0.0.0.0 baramije.net
 0.0.0.0 chch.fr
 0.0.0.0 truecrypt.fr
@@ -7390,6 +7391,7 @@
 0.0.0.0 zevents.com
 0.0.0.0 aresweb.fr
 0.0.0.0 web4.realtracker.com
+0.0.0.0 optionmodifycanitem.info
 0.0.0.0 ads.lzjl.com
 0.0.0.0 buildingcarpet.com
 0.0.0.0 e-2dj6wjkycpdzckp.stats.esomniture.com
@@ -8562,6 +8564,7 @@
 0.0.0.0 reklamtrk.com
 0.0.0.0 homehre.tripod.com
 0.0.0.0 adimages.go.com
+0.0.0.0 fedex-rescheduel-delivery-date.com
 0.0.0.0 track.msadcenter.mur.com
 0.0.0.0 www.bowlgirl.com
 0.0.0.0 techms-shop.su
@@ -13164,6 +13167,7 @@
 0.0.0.0 i2.vaishnaviinterior.com
 0.0.0.0 cdn.freefarcy.com
 0.0.0.0 shareaholic.com
+0.0.0.0 alert1dhlshipment.info
 0.0.0.0 www.japscat.org
 0.0.0.0 dimeprice.com		# "spam bugs"
 0.0.0.0 t-ads.adap.tv
