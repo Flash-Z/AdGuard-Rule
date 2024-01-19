@@ -1,4 +1,4 @@
-# Update time: 2024-01-18 20:35:54
+# Update time: 2024-01-19 09:24:01
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -9478,6 +9478,7 @@
 0.0.0.0 server-oslo.imrworldwide.com
 0.0.0.0 service001.adtech.fr
 0.0.0.0 www6.counter.bloke.com
+0.0.0.0 old.umcl.us
 0.0.0.0 apx.moatads.com
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 local-download.com
