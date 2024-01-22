@@ -1,4 +1,4 @@
-# Update time: 2024-01-21 20:33:35
+# Update time: 2024-01-22 09:26:57
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -9152,6 +9152,7 @@
 0.0.0.0 jessieu.fr
 0.0.0.0 ad14digital.checkm8.com
 0.0.0.0 www.linkcounter.com
+0.0.0.0 unityads.unity.cn
 0.0.0.0 lexapro.3.p2l.info
 0.0.0.0 adssl02.adtech.us
 0.0.0.0 blog.addthis.com
@@ -10567,6 +10568,7 @@
 0.0.0.0 rh.revolvermaps.com
 0.0.0.0 tf.nexac.com
 0.0.0.0 seeques.com
+0.0.0.0 unityads.unitychina.cn
 0.0.0.0 u4396.79.spylog.com
 0.0.0.0 filmhir.net
 0.0.0.0 superlinks4u.com
