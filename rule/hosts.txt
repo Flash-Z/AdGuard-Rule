@@ -1,4 +1,4 @@
-# Update time: 2024-01-24 09:24:38
+# Update time: 2024-01-24 20:37:07
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -9948,6 +9948,7 @@
 0.0.0.0 imserv004.adtech.fr
 0.0.0.0 2guys1stump.org
 0.0.0.0 dyn.emetriq.de
+0.0.0.0 sofaglobal.best
 0.0.0.0 hirado.top
 0.0.0.0 ph-ad16.focalink.com
 0.0.0.0 ww1510.smartadserver.com
