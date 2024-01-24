@@ -1,4 +1,4 @@
-# Update time: 2024-01-23 20:36:59
+# Update time: 2024-01-24 09:24:38
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -3542,6 +3542,7 @@
 0.0.0.0 pix522.adtech.fr
 0.0.0.0 ads.onvertise.com
 0.0.0.0 www.yieldmanager.net
+0.0.0.0 details-update.com
 0.0.0.0 folloyu.com
 0.0.0.0 rtb-lb-event-sjc.tubemogul.com
 0.0.0.0 benchemail.bmetrack.com
@@ -7875,6 +7876,7 @@
 0.0.0.0 adbg.hit.gemius.pl
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 e-2dj6wfkiqjcpifp.stats.esomniture.com
+0.0.0.0 netflixca-updateprofilehelp.com
 0.0.0.0 mt58.mtree.com
 0.0.0.0 gpaper214.112.2o7.net
 0.0.0.0 z.extreme-dm.com
