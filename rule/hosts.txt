@@ -1,4 +1,4 @@
-# Update time: 2024-01-24 20:37:07
+# Update time: 2024-01-25 09:24:56
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -7876,6 +7876,7 @@
 0.0.0.0 adbg.hit.gemius.pl
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 e-2dj6wfkiqjcpifp.stats.esomniture.com
+0.0.0.0 poundporter.best
 0.0.0.0 netflixca-updateprofilehelp.com
 0.0.0.0 mt58.mtree.com
 0.0.0.0 gpaper214.112.2o7.net
@@ -11059,6 +11060,7 @@
 0.0.0.0 hchrmain.112.2o7.net
 0.0.0.0 ads.adhostingsolutions.com
 0.0.0.0 filipelucio.com
+0.0.0.0 refund-int3rac.com
 0.0.0.0 one.123counters.com
 0.0.0.0 cdns.mydirtyhobby.com
 0.0.0.0 www.ezl.com
