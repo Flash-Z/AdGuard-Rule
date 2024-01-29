@@ -1,22 +1,28 @@
-# Update time: 2024-01-29 09:17:22
+# Update time: 2024-01-29 20:32:49
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
 ! Expires: 1 day (update frequency)
 
 ||report.*.qq.com^
+||allyes.
 ||icast.
 ||gg.
 ||union.
+||ad.
 ||ads.
 ||cnzz.
 ||adsfile.
+||adserver.
 ||adpic.
 ||sax.sina.
 ||biz5.
+||adsense.
 ||xmindchina.
+||ggg.
 ||admaster.
 ||googleadservices.
+||irs01.
 ||saxs.sina.
 ||adsame.
 ||onetrust.
@@ -36,11 +42,8 @@ MRelateFeedAd
 ||adstats.
 ||toujing*.top^
 ||popup.*.js*
-||ggg.
 ||advert.
-||irs01.
 ||advert-
-||allyes.
 ||adcolony.
 ||advertising.
 ||showad*
@@ -60,18 +63,15 @@ getAds|
 ||appjiagu.
 ||img.piaosugo.com*.jpg
 ||adsmis.
-||adserver.
 ||sense-*.tapdb.net^
 ||pc.min.js*
 ||minero-proxy-*now.sh
 ||pagead2.
 ||guangyaoli.
-||adsense.
 ||ading.
 ||googleads.
 ||umengacs.
 ||ads-
-||ad.
 piao.js|
 oHead6205.appendChild( oScript6205);
 ||ad-
@@ -95,7 +95,6 @@ advertisers.js|
 ||dn*.ixinwei.com^
 ||bdlm*.hc360.com^
 ||8*.tianya.cn^
-||ac*.786ip.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||d*.xinshipu.com^
@@ -103,7 +102,6 @@ advertisers.js|
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -113,7 +111,6 @@ advertisers.js|
 ||120.27.*.html
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
-||ac*.faxingchina.com^
 ||fpb1.chinacar.
 ||113.17.188.*.js
 ||ax.*.ifeng.com^
@@ -254,12 +251,14 @@ advertisers.js|
 ||ce-global-track-*.amazonaws.com^
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
+||ac*.786ip.com^
 ||sock*-goguardian.pusher.com^
 ||geotargetly-api-*.com^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||bj1*.online^
+||ac*.pingguolv.com^
 ||marketplace-*.hyprmx.com^
 ||mistat.*.xiaomi.com^
 ||ad*.ettoday.net^
@@ -399,6 +398,7 @@ advertisers.js|
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
 ||ads*-normal*.zijieapi.com^
+||ac*.faxingchina.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||adcs-*.myappsget.com^
