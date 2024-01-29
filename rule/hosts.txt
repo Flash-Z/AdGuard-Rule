@@ -1,4 +1,4 @@
-# Update time: 2024-01-28 20:30:14
+# Update time: 2024-01-29 09:17:22
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -9703,6 +9703,7 @@
 0.0.0.0 theappanalytics.com
 0.0.0.0 bbelements.com
 0.0.0.0 oascentral.sfgate.com
+0.0.0.0 twitchindoor.best
 0.0.0.0 ads.webheat.com
 0.0.0.0 bigfreelotto.com
 0.0.0.0 images.conduit-banners.com

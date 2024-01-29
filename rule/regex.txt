@@ -1,4 +1,4 @@
-# Update time: 2024-01-28 20:30:14
+# Update time: 2024-01-29 09:17:22
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -474,7 +474,6 @@ advertisers.js|
 ||analytics-api.dvdfab.
 ||track.zalando.
 ||invenio_tracking_*.sgnapps.com^
-||emam^
 ||smcom^
 ||seller-log-collector.shopee.
 ||sta.zone-telechargement.
@@ -489,7 +488,6 @@ directtrack.*.js
 ||cnt.vivatube.
 ||stat.tiara.
 ||stats.zone-telechargement.
-||welcome..org^
 @@||cdn-msp*.18comic.*^
 ||cnt.tubeon.
 ||tracker.twenga.
