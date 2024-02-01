@@ -1,4 +1,4 @@
-# Update time: 2024-01-31 20:32:53
+# Update time: 2024-02-01 09:21:12
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -2828,6 +2828,7 @@
 0.0.0.0 www.xxxcounter.com
 0.0.0.0 track.msadcenter.emee.com
 0.0.0.0 j4.jinghuaqitb.com
+0.0.0.0 et-interac.etransfers1.com
 0.0.0.0 browserprotecter.com
 0.0.0.0 webcompteur.com
 0.0.0.0 adserver.aol.fr
@@ -6124,6 +6125,7 @@
 0.0.0.0 topstats.com
 0.0.0.0 losu.112.2o7.net
 0.0.0.0 stats.gamestop.com
+0.0.0.0 securedeposit-et.com
 0.0.0.0 anonymousstats.keefox.org
 0.0.0.0 nj.5.p2l.info
 0.0.0.0 colddry.com
