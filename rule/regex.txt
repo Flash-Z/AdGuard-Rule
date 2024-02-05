@@ -1,4 +1,4 @@
-# Update time: 2024-02-04 20:30:22
+# Update time: 2024-02-05 09:19:14
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -84,6 +84,7 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+@@||adobeid-*.services.adobe.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -455,26 +456,18 @@ advertisers.js|
 ||cnt.yeptube.
 ||cnt.winporn.
 ||smetriccom^
-||matt.mercadolibre.
 ||cnt.hd21.
 ||grs.dbankcloud.
 ||gtmdev.jabra.
 ||collector.hamsterix.
 |piwik.
-||pixel*.adswizz.com
-||tracking.olx.
 ||cnt.nuvid.
 ||adservice.google.
-||servo-report.dvdfab.
 ||a*.smlog.co.kr^
 ||analytics-api.dvdfab.
-||track.zalando.
 ||invenio_tracking_*.sgnapps.com^
-||smcom^
 ||seller-log-collector.shopee.
 ||sta.zone-telechargement.
-||log*-applog-*.tiktokv.com^
-||t.delfi.
 ||analytics.ticketmaster.
 ||sgtm.fashionunited.
 ||analytics.streamfab.
@@ -482,15 +475,49 @@ advertisers.js|
 directtrack.*.js
 ||cnt.proporn.
 ||cnt.vivatube.
-||stat.tiara.
-||stats.zone-telechargement.
 @@||cdn-msp*.18comic.*^
 ||cnt.tubeon.
-||tracker.twenga.
-||stats.zone-annuaire.
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||button.blogs.yandex.
 ||collector.xhamster*.
 ||pixel.archive.
 ||wa.gmx.
+||sf*-fe-tos.pglstatp-toutiao.com^
+||log-api.pangolin-sdk-toutiao-*.com^
+||matt.mercadolibre.
+||v*-be-pack.pglstatp-toutiao.com^
+||s*a.pstatp.com^
+||pixel*.adswizz.com
+||tracking.olx.
+||XiaoQiang^
+||servo-report.dvdfab.
+||s*-fe-scm.pglstatp-toutiao.com^
+|samsungcloudsolution.net^
+||track.zalando.
+||smcom^
+||allsportsflix.
+||oempprd.samsungcloudsolution.
+||23.109.87.
+||log*-applog-*.tiktokv.com^
+||t.delfi.
+Banner468x60
+||adx-*.dbankcloud.
+||23.109.82.
+||tnc3-bjlgy.snssdk.^
+||sf*-be-pack.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+|lgtvsdp.com^
+||stat.tiara.
+||stats.zone-telechargement.
+||localhost^
+||tracker.twenga.
+|samsungcloudsolution.com^
+||158.247.208.
+||stats.zone-annuaire.
+||access*.tpns.tencent.com^
+||iqkufk^
+||mishop.pandora.xiaomi.com.^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
 ||track.tiara.
+||access.pangolin-sdk-toutiao-*.com^
