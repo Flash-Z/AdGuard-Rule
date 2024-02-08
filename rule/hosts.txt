@@ -1,4 +1,4 @@
-# Update time: 2024-02-08 09:16:02
+# Update time: 2024-02-08 20:32:21
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -5136,6 +5136,7 @@
 0.0.0.0 prizes.co.uk
 0.0.0.0 vjpwe.comfortykive.xyz
 0.0.0.0 www.gigdnetwork.com
+0.0.0.0 secure-royaibnk.com
 0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 szalonepromocje.com
 0.0.0.0 www3.smartadserver.com
@@ -9918,6 +9919,7 @@
 0.0.0.0 www.cellphoneincentives.com
 0.0.0.0 sb3.shble.com
 0.0.0.0 ads.online.ie
+0.0.0.0 accrogers-overview.com
 0.0.0.0 cdn2.adsdk.com
 0.0.0.0 apps5.oingo.com
 0.0.0.0 hotvideos.fr
