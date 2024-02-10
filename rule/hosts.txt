@@ -1,4 +1,4 @@
-# Update time: 2024-02-09 20:31:36
+# Update time: 2024-02-10 09:14:35
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -11463,6 +11463,7 @@
 0.0.0.0 capcityadvcom.112.2o7.net
 0.0.0.0 payae8moon9.com
 0.0.0.0 adsrv.wilmingtonstar.com
+0.0.0.0 canadapostarticle.com
 0.0.0.0 photos.daily-deals.analoganalytics.com
 0.0.0.0 www.odyssey.on.ca
 0.0.0.0 ad44.checkm8.com
