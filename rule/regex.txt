@@ -1,37 +1,17 @@
-# Update time: 2024-02-10 20:30:38
+# Update time: 2024-02-11 09:22:00
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
 ! Expires: 1 day (update frequency)
 
 ||report.*.qq.com^
-||allyes.
-||icast.
-||gg.
-||union.
-||ad.
-||ads.
-||cnzz.
-||adsfile.
-||adserver.
-||adpic.
-||sax.sina.
-||biz5.
-||adsense.
-||xmindchina.
-||ggg.
-||admaster.
-||googleadservices.
-||irs01.
-||saxs.sina.
-||adsame.
-||onetrust.
 ||adx.
 ||adx-
 ||adsfs.
 ||adsdk.
 MRelateFeedAd
 ||adsmind.
+||adsfile.
 ||bigdata.
 ||sell*.etlong.com^
 ||smartads.
@@ -42,8 +22,11 @@ MRelateFeedAd
 ||adstats.
 ||toujing*.top^
 ||popup.*.js*
+||ggg.
 ||advert.
+||irs01.
 ||advert-
+||allyes.
 ||adcolony.
 ||advertising.
 ||showad*
@@ -63,18 +46,22 @@ getAds|
 ||appjiagu.
 ||img.piaosugo.com*.jpg
 ||adsmis.
+||adserver.
 ||sense-*.tapdb.net^
 ||pc.min.js*
 ||minero-proxy-*now.sh
 ||pagead2.
 ||guangyaoli.
+||adsense.
 ||ading.
 ||googleads.
 ||umengacs.
 ||ads-
+||ad.
 piao.js|
 oHead6205.appendChild( oScript6205);
 ||ad-
+||ads.
 ||vali-g1.cp31.ott.cibntv.net*.mp4
 ||adxapi.
 ||adsence.
@@ -85,6 +72,19 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 @@||adobeid-*.services.adobe.com^
+||onetrust.
+||icast.
+||gg.
+||union.
+||adpic.
+||cnzz.
+||sax.sina.
+||biz5.
+||xmindchina.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -102,7 +102,6 @@ advertisers.js|
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||adi*.cnool.net^
@@ -387,6 +386,7 @@ advertisers.js|
 ||c*hit.zerkalo.io^
 ||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
+||at*.doubanio.com^
 ||api*.batmobil.net^
 ||collector-*.px-client.net^
 ||ej1*.online^
@@ -455,17 +455,17 @@ advertisers.js|
 ||analytics*.prezly.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||log-api.pangolin-sdk-toutiao-*.com^
+||matt.mercadolibre.
 ||v*-be-pack.pglstatp-toutiao.com^
 ||s*a.pstatp.com^
+||tracking.olx.
 ||XiaoQiang^
-||servo-report.dvdfab.
 ||s*-fe-scm.pglstatp-toutiao.com^
 |samsungcloudsolution.net^
-||track.zalando.
-||invenio_tracking_*.sgnapps.com^
 ||allsportsflix.
 ||oempprd.samsungcloudsolution.
 ||23.109.87.
+||t.delfi.
 Banner468x60
 ||adx-*.dbankcloud.
 ||23.109.82.
@@ -473,9 +473,7 @@ Banner468x60
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
 |lgtvsdp.com^
-||stat.tiara.
 ||localhost^
-||tracker.twenga.
 |samsungcloudsolution.com^
 ||158.247.208.
 ||access*.tpns.tencent.com^
@@ -487,22 +485,22 @@ Banner468x60
 ||bc.geocities.
 ||cnt.yeptube.
 ||cnt.winporn.
-||matt.mercadolibre.
 ||cnt.hd21.
 ||grs.dbankcloud.
 ||gtmdev.jabra.
 ||collector.hamsterix.
 |piwik.
 ||pixel*.adswizz.com
-||tracking.olx.
 ||cnt.nuvid.
 ||adservice.google.
+||servo-report.dvdfab.
 ||a*.smlog.co.kr^
 ||analytics-api.dvdfab.
+||track.zalando.
+||invenio_tracking_*.sgnapps.com^
 ||seller-log-collector.shopee.
 ||sta.zone-telechargement.
 ||log*-applog-*.tiktokv.com^
-||t.delfi.
 ||analytics.ticketmaster.
 ||sgtm.fashionunited.
 ||analytics.streamfab.
@@ -510,9 +508,11 @@ Banner468x60
 directtrack.*.js
 ||cnt.proporn.
 ||cnt.vivatube.
+||stat.tiara.
 ||stats.zone-telechargement.
 @@||cdn-msp*.18comic.*^
 ||cnt.tubeon.
+||tracker.twenga.
 ||stats.zone-annuaire.
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||button.blogs.yandex.
