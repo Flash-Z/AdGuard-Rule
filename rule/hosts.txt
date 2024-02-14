@@ -1,4 +1,4 @@
-# Update time: 2024-02-14 09:17:28
+# Update time: 2024-02-14 20:33:08
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -11834,6 +11834,7 @@
 0.0.0.0 sec.hit.gemius.pl
 0.0.0.0 lbrtry.com
 0.0.0.0 protection.LCpolice.com
+0.0.0.0 healpublic.best
 0.0.0.0 cspix.media6degrees.com
 0.0.0.0 hst.tradedoubler.com
 0.0.0.0 ads.champs-elysees.com
