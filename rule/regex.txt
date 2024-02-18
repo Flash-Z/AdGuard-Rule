@@ -1,4 +1,4 @@
-# Update time: 2024-02-18 09:21:08
+# Update time: 2024-02-18 20:30:31
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -84,7 +84,6 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-@@||adobeid-*.services.adobe.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -453,39 +452,6 @@ advertisers.js|
 ||analytics-ad-*.kgslb.com^
 ||aj2*.bid^
 ||analytics*.prezly.com^
-||sf*-fe-tos.pglstatp-toutiao.com^
-||log-api.pangolin-sdk-toutiao-*.com^
-||v*-be-pack.pglstatp-toutiao.com^
-||s*a.pstatp.com^
-||sta.extreme-down.
-||XiaoQiang^
-||s*-fe-scm.pglstatp-toutiao.com^
-|samsungcloudsolution.net^
-||allsportsflix.
-||oempprd.samsungcloudsolution.
-||sta.zone-telechargement.
-||23.109.87.
-Banner468x60
-||adx-*.dbankcloud.
-||23.109.82.
-||tnc3-bjlgy.snssdk.^
-||sf*-be-pack.pglstatp-toutiao.com^
-||api-access.pangolin-sdk-toutiao-*.com^
-|lgtvsdp.com^
-||stat.tiara.
-||stats.zone-telechargement.
-||localhost^
-||tracker.twenga.
-|samsungcloudsolution.com^
-||158.247.208.
-||access*.tpns.tencent.com^
-||iqkufk^
-||mishop.pandora.xiaomi.com.^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||sta.wawacity.
-||wa.gmx.
-||access.pangolin-sdk-toutiao-*.com^
 ||bc.geocities.
 ||cnt.yeptube.
 ||cnt.winporn.
@@ -497,6 +463,7 @@ Banner468x60
 |piwik.
 ||pixel*.adswizz.com
 ||tracking.olx.
+||sta.extreme-down.
 ||cnt.nuvid.
 ||adservice.google.
 ||servo-report.dvdfab.
@@ -505,6 +472,7 @@ Banner468x60
 ||track.zalando.
 ||invenio_tracking_*.sgnapps.com^
 ||seller-log-collector.shopee.
+||sta.zone-telechargement.
 ||log*-applog-*.tiktokv.com^
 ||t.delfi.
 ||analytics.ticketmaster.
@@ -515,12 +483,17 @@ Banner468x60
 directtrack.*.js
 ||cnt.proporn.
 ||cnt.vivatube.
+||stat.tiara.
+||stats.zone-telechargement.
 @@||cdn-msp*.18comic.*^
 ||cnt.tubeon.
+||tracker.twenga.
 ||stats.zone-annuaire.
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||button.blogs.yandex.
 ||collector.xhamster*.
+||sta.wawacity.
 ||pixel.archive.
+||wa.gmx.
 ||track.tiara.
 ||df.infra.shopee.
