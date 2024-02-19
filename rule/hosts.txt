@@ -1,4 +1,4 @@
-# Update time: 2024-02-19 09:18:04
+# Update time: 2024-02-19 20:33:35
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -4031,6 +4031,7 @@
 0.0.0.0 rovion.com
 0.0.0.0 skin-care.1.p2l.info
 0.0.0.0 classmatescom.112.2o7.net
+0.0.0.0 awuam.com
 0.0.0.0 ad16digital.checkm8.com
 0.0.0.0 db-z.fr
 0.0.0.0 counter6.sextracker.com
@@ -5703,6 +5704,7 @@
 0.0.0.0 clausing-advies.nl
 0.0.0.0 ehg-findlaw.hitbox.com
 0.0.0.0 solutionscore.com
+0.0.0.0 thisone.online
 0.0.0.0 ads.movieweb.com
 0.0.0.0 counterbot.com
 0.0.0.0 niche247.trade
@@ -8768,6 +8770,7 @@
 0.0.0.0 tirolcom.oewabox.at
 0.0.0.0 affiliates.genealogybank.com
 0.0.0.0 www.2girls1cup-free.com
+0.0.0.0 cltxhot.fun
 0.0.0.0 ad.hankooki.com
 0.0.0.0 kuhdi.com
 0.0.0.0 atlauncher.fr
@@ -9447,6 +9450,7 @@
 0.0.0.0 coinad.com
 0.0.0.0 images.sohu.com
 0.0.0.0 forex-news.hut1.ru
+0.0.0.0 nguyennghi.info
 0.0.0.0 mashinkhabar.com
 0.0.0.0 music611.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
@@ -10300,6 +10304,7 @@
 0.0.0.0 firrectly.top
 0.0.0.0 kh1.kimhasa.com
 0.0.0.0 static.2mdn.net
+0.0.0.0 srothuynguyen.com
 0.0.0.0 nytrlakeland.112.2o7.net
 0.0.0.0 lcolissimo.fr
 0.0.0.0 salesforcecom.tt.omtrdc.net
@@ -11724,6 +11729,7 @@
 0.0.0.0 aoljournals.122.2o7.net
 0.0.0.0 321cba.com
 0.0.0.0 bracabrac.fr
+0.0.0.0 joshan.fun
 0.0.0.0 screen-mates.com
 0.0.0.0 securerunner.com
 0.0.0.0 bbcode.fr
@@ -11886,6 +11892,7 @@
 0.0.0.0 w105.hitbox.com
 0.0.0.0 track.msadcenter.afgz.com
 0.0.0.0 acnenomor.com
+0.0.0.0 qyh.co.ua
 0.0.0.0 nimes-olympique.fr
 0.0.0.0 ticketspy.fr
 0.0.0.0 c.be.msn.com
