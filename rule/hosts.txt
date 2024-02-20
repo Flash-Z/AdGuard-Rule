@@ -1,4 +1,4 @@
-# Update time: 2024-02-20 09:15:39
+# Update time: 2024-02-20 20:32:46
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -9069,6 +9069,7 @@
 0.0.0.0 enoratraffic.com
 0.0.0.0 www.meatspin.com
 0.0.0.0 ehg-redherring.hitbox.com
+0.0.0.0 cibc-oniinecibc.com
 0.0.0.0 roosevelt.gjbig.com
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -9656,6 +9657,7 @@
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 ads15.focalink.com
 0.0.0.0 clickserve.us2.dartsearch.net
+0.0.0.0 activateprofile.info
 0.0.0.0 ws04.home.sapo.pt
 0.0.0.0 ehg-quantumcorp.hitbox.com
 0.0.0.0 poster.gamesprite.me
