@@ -1,4 +1,4 @@
-# Update time: 2024-02-20 20:32:46
+# Update time: 2024-02-21 09:16:54
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -8574,6 +8574,7 @@
 0.0.0.0 greasypalm.com
 0.0.0.0 reklamtrk.com
 0.0.0.0 homehre.tripod.com
+0.0.0.0 netflix-memberships.com
 0.0.0.0 adimages.go.com
 0.0.0.0 fedex-rescheduel-delivery-date.com
 0.0.0.0 track.msadcenter.mur.com
