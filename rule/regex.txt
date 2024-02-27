@@ -1,4 +1,4 @@
-# Update time: 2024-02-26 20:32:57
+# Update time: 2024-02-27 09:15:44
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -84,6 +84,7 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+@@||adobeid-*.services.adobe.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -226,6 +227,7 @@ advertisers.js|
 ||host*.carl-ras.dk^
 ||ads*.dfiles.ru^
 ||ads.livetv*.me^
+||faro-collector-prod-*.grafana.net^
 ||prebid-*.rubiconproject.com^
 ||lt*.tritondigital.com^
 ||api-*.hismarttv.com^
@@ -461,8 +463,6 @@ advertisers.js|
 ||gtmdev.jabra.
 ||collector.hamsterix.
 |piwik.
-||pixel*.adswizz.com
-||tracking.olx.
 ||sta.extreme-down.
 ||cnt.nuvid.
 ||adservice.google.
@@ -471,24 +471,19 @@ advertisers.js|
 ||analytics-api.dvdfab.
 ||track.zalando.
 ||invenio_tracking_*.sgnapps.com^
-||seller-log-collector.shopee.
 ||sta.zone-telechargement.
-||log*-applog-*.tiktokv.com^
 ||t.delfi.
 ||analytics.ticketmaster.
 ||sgtm.fashionunited.
 ||analytics.streamfab.
 ||log-collector.shopee.
-||ubt.tracking.shopee.
 directtrack.*.js
 ||cnt.proporn.
 ||cnt.vivatube.
 ||stat.tiara.
-||stats.zone-telechargement.
 @@||cdn-msp*.18comic.*^
 ||cnt.tubeon.
 ||tracker.twenga.
-||stats.zone-annuaire.
 ||df.infra.sz.shopee.
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||button.blogs.yandex.
@@ -496,5 +491,37 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||sta.wawacity.
 ||pixel.archive.
 ||wa.gmx.
-||track.tiara.
 ||df.infra.shopee.
+||sf*-fe-tos.pglstatp-toutiao.com^
+||log-api.pangolin-sdk-toutiao-*.com^
+||v*-be-pack.pglstatp-toutiao.com^
+||s*a.pstatp.com^
+||pixel*.adswizz.com
+||tracking.olx.
+||XiaoQiang^
+||s*-fe-scm.pglstatp-toutiao.com^
+|samsungcloudsolution.net^
+||seller-log-collector.shopee.
+||allsportsflix.
+||oempprd.samsungcloudsolution.
+||23.109.87.
+||log*-applog-*.tiktokv.com^
+Banner468x60
+||adx-*.dbankcloud.
+||23.109.82.
+||tnc3-bjlgy.snssdk.^
+||ubt.tracking.shopee.
+||sf*-be-pack.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+|lgtvsdp.com^
+||stats.zone-telechargement.
+||localhost^
+|samsungcloudsolution.com^
+||158.247.208.
+||stats.zone-annuaire.
+||access*.tpns.tencent.com^
+||mishop.pandora.xiaomi.com.^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||track.tiara.
+||access.pangolin-sdk-toutiao-*.com^
