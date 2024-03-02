@@ -1,4 +1,4 @@
-# Update time: 2024-03-01 20:32:47
+# Update time: 2024-03-02 09:14:27
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -6581,6 +6581,7 @@
 0.0.0.0 ero-advertising.com
 0.0.0.0 ad8.adfarm1.adition.com
 0.0.0.0 service002.adtech.us
+0.0.0.0 et-mycostcorewards.info
 0.0.0.0 lepoinf.fr
 0.0.0.0 www.superbrewards.com
 0.0.0.0 e-2dj6wfkiakdjgcp.stats.esomniture.com
@@ -7938,6 +7939,7 @@
 0.0.0.0 www.0202.com.tw
 0.0.0.0 certifiedwinners.today
 0.0.0.0 butterdogchange.com
+0.0.0.0 benefitsgov.info
 0.0.0.0 kronehit.oewabox.at
 0.0.0.0 forex-online.hut1.ru
 0.0.0.0 ad03.focalink.com
@@ -9866,6 +9868,7 @@
 0.0.0.0 st.blogads.com
 0.0.0.0 kitaramarketplace.com
 0.0.0.0 media5021.videostrip.com
+0.0.0.0 fdoverbilled.com
 0.0.0.0 sosohus.ink
 0.0.0.0 ad17digital.checkm8.com
 0.0.0.0 ads.carocean.co.uk
@@ -10415,6 +10418,7 @@
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 www.bostonwall.com
 0.0.0.0 ciiycode.com
+0.0.0.0 profileconfirm.info
 0.0.0.0 bellglovemediapublishing.122.2o7.net
 0.0.0.0 solveseek.com
 0.0.0.0 ads.stoiximan.gr
