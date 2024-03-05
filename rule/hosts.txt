@@ -1,4 +1,4 @@
-# Update time: 2024-03-05 09:16:07
+# Update time: 2024-03-05 20:33:04
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -9894,6 +9894,7 @@
 0.0.0.0 vis.sexlist.com
 0.0.0.0 ads.mdchoice.com
 0.0.0.0 ad2.adecn.com
+0.0.0.0 fido-team.com
 0.0.0.0 gcirm.clarionledger.com
 0.0.0.0 overflow.adsoftware.com
 0.0.0.0 securerr.com
