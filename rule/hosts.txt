@@ -1,4 +1,4 @@
-# Update time: 2024-03-04 20:35:50
+# Update time: 2024-03-05 09:16:07
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -5985,6 +5985,7 @@
 0.0.0.0 lol.to
 0.0.0.0 gpaper193.112.2o7.net
 0.0.0.0 u5687.48.spylog.com
+0.0.0.0 authscotia-signinscotia.com
 0.0.0.0 cheapapartmentsaroundme.com
 0.0.0.0 short-share.com
 0.0.0.0 static.ifa.camads.net
