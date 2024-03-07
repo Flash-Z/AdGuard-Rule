@@ -1,4 +1,4 @@
-# Update time: 2024-03-06 20:33:49
+# Update time: 2024-03-07 09:03:24
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -3712,6 +3712,7 @@
 0.0.0.0 s.clicktale.net
 0.0.0.0 ehg-novell.hitbox.com
 0.0.0.0 topcashvibes.com
+0.0.0.0 www.getnexuscard.com
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 ant.conversive.nl
 0.0.0.0 adserver.lunarpages.com
@@ -6580,6 +6581,7 @@
 0.0.0.0 timepopsci.122.2o7.net
 0.0.0.0 adserver-2.ig.com.br
 0.0.0.0 ero-advertising.com
+0.0.0.0 autheasywinformationreq.com
 0.0.0.0 ad8.adfarm1.adition.com
 0.0.0.0 service002.adtech.us
 0.0.0.0 et-mycostcorewards.info
@@ -9159,6 +9161,7 @@
 0.0.0.0 host81-138-7-108.in-addr.btopenworld.com
 0.0.0.0 popup.taboola.com
 0.0.0.0 q.azcentral.com
+0.0.0.0 getnexuscard.com
 0.0.0.0 z0.extreme-dm.com
 0.0.0.0 www.laptoprewardszone.com
 0.0.0.0 thebitcrew.com
