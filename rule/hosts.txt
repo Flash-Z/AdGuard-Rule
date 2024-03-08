@@ -1,4 +1,4 @@
-# Update time: 2024-03-07 20:32:41
+# Update time: 2024-03-08 09:16:24
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -9327,6 +9327,7 @@
 0.0.0.0 unonoticias.net
 0.0.0.0 gwallet.com
 0.0.0.0 smartlifeguides.com
+0.0.0.0 www.swallowwire.sa.com
 0.0.0.0 europe.adserver.yahoo.com
 0.0.0.0 code.murdoog.com
 0.0.0.0 bravospots.com
