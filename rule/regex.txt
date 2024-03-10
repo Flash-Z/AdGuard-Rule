@@ -1,37 +1,17 @@
-# Update time: 2024-03-09 20:29:31
+# Update time: 2024-03-10 09:21:08
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
 ! Expires: 1 day (update frequency)
 
 ||report.*.qq.com^
-||allyes.
-||icast.
-||gg.
-||union.
-||ad.
-||ads.
-||cnzz.
-||adsfile.
-||adserver.
-||adpic.
-||sax.sina.
-||biz5.
-||adsense.
-||xmindchina.
-||ggg.
-||admaster.
-||googleadservices.
-||irs01.
-||saxs.sina.
-||adsame.
-||onetrust.
 ||adx.
 ||adx-
 ||adsfs.
 ||adsdk.
 MRelateFeedAd
 ||adsmind.
+||adsfile.
 ||bigdata.
 ||sell*.etlong.com^
 ||smartads.
@@ -42,8 +22,11 @@ MRelateFeedAd
 ||adstats.
 ||toujing*.top^
 ||popup.*.js*
+||ggg.
 ||advert.
+||irs01.
 ||advert-
+||allyes.
 ||adcolony.
 ||advertising.
 ||showad*
@@ -63,18 +46,22 @@ getAds|
 ||appjiagu.
 ||img.piaosugo.com*.jpg
 ||adsmis.
+||adserver.
 ||sense-*.tapdb.net^
 ||pc.min.js*
 ||minero-proxy-*now.sh
 ||pagead2.
 ||guangyaoli.
+||adsense.
 ||ading.
 ||googleads.
 ||umengacs.
 ||ads-
+||ad.
 piao.js|
 oHead6205.appendChild( oScript6205);
 ||ad-
+||ads.
 ||vali-g1.cp31.ott.cibntv.net*.mp4
 ||adxapi.
 ||adsence.
@@ -84,7 +71,19 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-@@||adobeid-*.services.adobe.com^
+||icast.
+||gg.
+||union.
+||adpic.
+||cnzz.
+||sax.sina.
+||biz5.
+||xmindchina.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
+||onetrust.
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -94,7 +93,9 @@ advertisers.js|
 ||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
+||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
+||ac*.786ip.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||d*.xinshipu.com^
@@ -102,6 +103,7 @@ advertisers.js|
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
+||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -110,6 +112,7 @@ advertisers.js|
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
+||ac*.faxingchina.com^
 ||fpb1.chinacar.
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
@@ -249,14 +252,12 @@ advertisers.js|
 ||ce-global-track-*.amazonaws.com^
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
-||ac*.786ip.com^
 ||sock*-goguardian.pusher.com^
 ||geotargetly-api-*.com^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||bj1*.online^
-||ac*.pingguolv.com^
 ||marketplace-*.hyprmx.com^
 ||mistat.*.xiaomi.com^
 ||ad*.ettoday.net^
@@ -378,7 +379,6 @@ advertisers.js|
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
-||a*.chajiaotong.com^
 ||gads*s.com^
 ||collector.hamsterix.*^
 ||trk*.vidible.tv^
@@ -397,7 +397,6 @@ advertisers.js|
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
 ||ads*-normal*.zijieapi.com^
-||ac*.faxingchina.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||adcs-*.myappsget.com^
@@ -457,6 +456,7 @@ advertisers.js|
 ||bc.geocities.
 ||cnt.yeptube.
 ||cnt.winporn.
+||matt.mercadolibre.
 ||cnt.hd21.
 ||grs.dbankcloud.
 ||gtmdev.jabra.
@@ -474,11 +474,13 @@ advertisers.js|
 ||invenio_tracking_*.sgnapps.com^
 ||seller-log-collector.shopee.
 ||sta.zone-telechargement.
+||log*-applog-*.tiktokv.com^
 ||t.delfi.
 ||analytics.ticketmaster.
 ||sgtm.fashionunited.
 ||analytics.streamfab.
 ||log-collector.shopee.
+||ubt.tracking.shopee.
 directtrack.*.js
 ||cnt.proporn.
 ||cnt.vivatube.
@@ -497,31 +499,3 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||wa.gmx.
 ||track.tiara.
 ||df.infra.shopee.
-||sf*-fe-tos.pglstatp-toutiao.com^
-||log-api.pangolin-sdk-toutiao-*.com^
-||matt.mercadolibre.
-||v*-be-pack.pglstatp-toutiao.com^
-||s*a.pstatp.com^
-||XiaoQiang^
-||s*-fe-scm.pglstatp-toutiao.com^
-|samsungcloudsolution.net^
-||allsportsflix.
-||oempprd.samsungcloudsolution.
-||23.109.87.
-||log*-applog-*.tiktokv.com^
-Banner468x60
-||adx-*.dbankcloud.
-||23.109.82.
-||tnc3-bjlgy.snssdk.^
-||ubt.tracking.shopee.
-||sf*-be-pack.pglstatp-toutiao.com^
-||api-access.pangolin-sdk-toutiao-*.com^
-|lgtvsdp.com^
-||localhost^
-|samsungcloudsolution.com^
-||158.247.208.
-||access*.tpns.tencent.com^
-||mishop.pandora.xiaomi.com.^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||access.pangolin-sdk-toutiao-*.com^
