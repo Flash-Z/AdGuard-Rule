@@ -1,4 +1,4 @@
-# Update time: 2024-03-13 09:18:07
+# Update time: 2024-03-13 20:33:10
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -453,6 +453,34 @@ advertisers.js|
 ||analytics-ad-*.kgslb.com^
 ||aj2*.bid^
 ||analytics*.prezly.com^
+||sf*-fe-tos.pglstatp-toutiao.com^
+||log-api.pangolin-sdk-toutiao-*.com^
+||v*-be-pack.pglstatp-toutiao.com^
+||s*a.pstatp.com^
+||pixel*.adswizz.com
+||tracking.olx.
+||XiaoQiang^
+||s*-fe-scm.pglstatp-toutiao.com^
+|samsungcloudsolution.net^
+||allsportsflix.
+||oempprd.samsungcloudsolution.
+||23.109.87.
+Banner468x60
+||adx-*.dbankcloud.
+||23.109.82.
+||get-me-wow.
+||tnc3-bjlgy.snssdk.^
+||sf*-be-pack.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+|lgtvsdp.com^
+||localhost^
+|samsungcloudsolution.com^
+||158.247.208.
+||access*.tpns.tencent.com^
+||mishop.pandora.xiaomi.com.^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||access.pangolin-sdk-toutiao-*.com^
 ||bc.geocities.
 ||cnt.yeptube.
 ||cnt.winporn.
@@ -462,8 +490,6 @@ advertisers.js|
 ||gtmdev.jabra.
 ||collector.hamsterix.
 |piwik.
-||pixel*.adswizz.com
-||tracking.olx.
 ||sta.extreme-down.
 ||cnt.nuvid.
 ||adservice.google.
@@ -474,10 +500,12 @@ advertisers.js|
 ||invenio_tracking_*.sgnapps.com^
 ||seller-log-collector.shopee.
 ||sta.zone-telechargement.
+||log*-applog-*.tiktokv.com^
 ||t.delfi.
 ||analytics.ticketmaster.
 ||sgtm.fashionunited.
 ||analytics.streamfab.
+||log-collector.shopee.
 ||ubt.tracking.shopee.
 directtrack.*.js
 ||cnt.proporn.
@@ -497,31 +525,3 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||wa.gmx.
 ||track.tiara.
 ||df.infra.shopee.
-||sf*-fe-tos.pglstatp-toutiao.com^
-||log-api.pangolin-sdk-toutiao-*.com^
-||v*-be-pack.pglstatp-toutiao.com^
-||s*a.pstatp.com^
-||XiaoQiang^
-||s*-fe-scm.pglstatp-toutiao.com^
-|samsungcloudsolution.net^
-||allsportsflix.
-||oempprd.samsungcloudsolution.
-||23.109.87.
-||log*-applog-*.tiktokv.com^
-Banner468x60
-||adx-*.dbankcloud.
-||23.109.82.
-||get-me-wow.
-||log-collector.shopee.
-||tnc3-bjlgy.snssdk.^
-||sf*-be-pack.pglstatp-toutiao.com^
-||api-access.pangolin-sdk-toutiao-*.com^
-|lgtvsdp.com^
-||localhost^
-|samsungcloudsolution.com^
-||158.247.208.
-||access*.tpns.tencent.com^
-||mishop.pandora.xiaomi.com.^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||access.pangolin-sdk-toutiao-*.com^
