@@ -1,4 +1,4 @@
-# Update time: 2024-03-13 20:33:10
+# Update time: 2024-03-14 09:16:34
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -9261,6 +9261,7 @@
 0.0.0.0 ads2.haber3.com
 0.0.0.0 oascentral.discovery.com
 0.0.0.0 tools.spylog.ru
+0.0.0.0 post-canada-reschedule2024.com
 0.0.0.0 www.cheap-online-stamp.cast.cc
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 ad.e-kolay.net
@@ -10687,6 +10688,7 @@
 0.0.0.0 stat.yellowtracker.com
 0.0.0.0 meta.osqa.net
 0.0.0.0 sourmath.com
+0.0.0.0 acceptlnterac-email-transfer-online-2fasecure.com
 0.0.0.0 ad19.focalink.com
 0.0.0.0 maccity.it.intellitxt.com
 0.0.0.0 choisimoncode.fr
