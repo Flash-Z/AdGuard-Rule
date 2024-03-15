@@ -1,4 +1,4 @@
-# Update time: 2024-03-15 09:17:12
+# Update time: 2024-03-15 20:32:22
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -6370,6 +6370,7 @@
 0.0.0.0 www4.at.debianbase.de
 0.0.0.0 members.chello.nl
 0.0.0.0 vxiframe.biz
+0.0.0.0 claimcostcobenefits.com
 0.0.0.0 eds.ca.matchbox.maruhub.com
 0.0.0.0 as1.inoventiv.com
 0.0.0.0 lpcloudsvr302.com
