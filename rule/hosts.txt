@@ -1,4 +1,4 @@
-# Update time: 2024-03-18 09:17:38
+# Update time: 2024-03-18 20:32:38
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -12282,6 +12282,7 @@
 0.0.0.0 ads.shizmoo.com
 0.0.0.0 grandeweddings.com
 0.0.0.0 track.omg2.com
+0.0.0.0 etransfer-23799.com
 0.0.0.0 audicat.net
 0.0.0.0 metrics.natmags.co.uk
 0.0.0.0 rtb7.adscience.nl
