@@ -1,4 +1,4 @@
-# Update time: 2024-03-25 20:32:47
+# Update time: 2024-03-26 09:16:53
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -3165,7 +3165,6 @@
 0.0.0.0 gcirm.courier-journal.com
 0.0.0.0 secure.webconnect.net
 0.0.0.0 views.m4n.nl
-0.0.0.0 transfer.sh
 0.0.0.0 images.mbuyu.nl
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 emea-bidder.mathtag.com
