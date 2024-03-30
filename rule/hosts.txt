@@ -1,4 +1,4 @@
-# Update time: 2024-03-29 20:34:38
+# Update time: 2024-03-30 09:15:03
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -8098,6 +8098,7 @@
 0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 supplements.1.p2l.info
 0.0.0.0 www.conversantmedia.com
+0.0.0.0 deposit-et-1interac.help
 0.0.0.0 colisismo.fr
 0.0.0.0 www.bus-offer.com
 0.0.0.0 mc.yandex.ru
