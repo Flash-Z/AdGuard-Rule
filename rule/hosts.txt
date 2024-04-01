@@ -1,4 +1,4 @@
-# Update time: 2024-04-01 09:24:14
+# Update time: 2024-04-01 20:35:51
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -4228,6 +4228,7 @@
 0.0.0.0 1097834592.rsc.cdn77.org
 0.0.0.0 oascentral.nerve.com
 0.0.0.0 adcounter.theglobeandmail.com
+0.0.0.0 manage2-phone7alerts.com
 0.0.0.0 liberland.fr
 0.0.0.0 www.thatsjustgay.com
 0.0.0.0 ad1.checkm8.com
