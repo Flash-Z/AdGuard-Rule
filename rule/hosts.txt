@@ -1,4 +1,4 @@
-# Update time: 2024-04-01 20:35:51
+# Update time: 2024-04-02 09:21:26
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -3246,6 +3246,7 @@
 0.0.0.0 www.actiondesk.com
 0.0.0.0 ns2.hitbox.com
 0.0.0.0 ads.mgnetwork.com
+0.0.0.0 canadapost.helpdag.top
 0.0.0.0 mhlnk.com
 0.0.0.0 im.xo.pl
 0.0.0.0 bowlgirl.com
