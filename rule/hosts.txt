@@ -1,4 +1,4 @@
-# Update time: 2024-04-02 09:21:26
+# Update time: 2024-04-02 20:34:16
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -12117,6 +12117,7 @@
 0.0.0.0 p.ic.tynt.com
 0.0.0.0 cbspgatour.112.2o7.net
 0.0.0.0 s-clk.rmp.rakuten.com
+0.0.0.0 mk.limonshel.de
 0.0.0.0 realads.realmedia.com
 0.0.0.0 d12.zedo.com
 0.0.0.0 vidstat.taboola.com
