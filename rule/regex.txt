@@ -1,4 +1,4 @@
-# Update time: 2024-04-05 20:32:42
+# Update time: 2024-04-06 09:16:10
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -431,6 +431,7 @@ advertisers.js|
 ||ssp*.rtb.beeline.ru^
 ||stats*.videonow.ru^
 ||log-*.zadn.vn^
+||reachableads-av.*.amazonaws.com^
 ||js.*2023*.live^
 ||mobileoffers-*-download.com^
 ||collect-v*.51.la^
