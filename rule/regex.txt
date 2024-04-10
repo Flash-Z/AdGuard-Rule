@@ -1,4 +1,4 @@
-# Update time: 2024-04-10 09:17:36
+# Update time: 2024-04-10 20:33:30
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -84,6 +84,7 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+@@||adobeid-*.services.adobe.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -478,15 +479,12 @@ advertisers.js|
 ||sgtm.fashionunited.
 ||analytics.streamfab.
 ||log-collector.shopee.
-||ubt.tracking.shopee.
 directtrack.*.js
 ||cnt.proporn.
 ||cnt.vivatube.
 ||stat.tiara.
-||stats.zone-telechargement.
 @@||cdn-msp*.18comic.*^
 ||cnt.tubeon.
-||tracker.twenga.
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
@@ -494,6 +492,36 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||collector.xhamster*.
 ||sta.wawacity.
 ||pixel.archive.
+||df.infra.shopee.
+||sf*-fe-tos.pglstatp-toutiao.com^
+||log-api.pangolin-sdk-toutiao-*.com^
+||v*-be-pack.pglstatp-toutiao.com^
+||s*a.pstatp.com^
+||XiaoQiang^
+||s*-fe-scm.pglstatp-toutiao.com^
+|samsungcloudsolution.net^
+||invenio_tracking_*.sgnapps.com^
+||allsportsflix.
+||oempprd.samsungcloudsolution.
+||23.109.87.
+Banner468x60
+||adx-*.dbankcloud.
+||23.109.82.
+||get-me-wow.
+||tnc3-bjlgy.snssdk.^
+||ubt.tracking.shopee.
+||sf*-be-pack.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+|lgtvsdp.com^
+||stats.zone-telechargement.
+||localhost^
+||tracker.twenga.
+|samsungcloudsolution.com^
+||158.247.208.
+||access*.tpns.tencent.com^
+||mishop.pandora.xiaomi.com.^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
 ||wa.gmx.
 ||track.tiara.
-||df.infra.shopee.
+||access.pangolin-sdk-toutiao-*.com^
