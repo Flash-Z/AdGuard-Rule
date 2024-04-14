@@ -1,4 +1,4 @@
-# Update time: 2024-04-13 20:29:10
+# Update time: 2024-04-14 09:49:30
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -26,7 +26,6 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
-@@||adobeid-*.services.adobe.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -85,6 +84,7 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+@@||adobeid-*.services.adobe.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -453,41 +453,9 @@ advertisers.js|
 ||analytics-ad-*.kgslb.com^
 ||aj2*.bid^
 ||analytics*.prezly.com^
-||sf*-fe-tos.pglstatp-toutiao.com^
-||log-api.pangolin-sdk-toutiao-*.com^
-||v*-be-pack.pglstatp-toutiao.com^
-||s*a.pstatp.com^
-||tracking.olx.
-||XiaoQiang^
-||s*-fe-scm.pglstatp-toutiao.com^
-|samsungcloudsolution.net^
-||track.zalando.
-||invenio_tracking_*.sgnapps.com^
-||allsportsflix.
-||oempprd.samsungcloudsolution.
-||23.109.87.
-Banner468x60
-||adx-*.dbankcloud.
-||23.109.82.
-||get-me-wow.
-||tnc3-bjlgy.snssdk.^
-||ubt.tracking.shopee.
-||sf*-be-pack.pglstatp-toutiao.com^
-||api-access.pangolin-sdk-toutiao-*.com^
-|lgtvsdp.com^
-||localhost^
-||tracker.twenga.
-|samsungcloudsolution.com^
-||158.247.208.
-||access*.tpns.tencent.com^
-||mishop.pandora.xiaomi.com.^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||access.pangolin-sdk-toutiao-*.com^
 ||bc.geocities.
 ||cnt.yeptube.
 ||cnt.winporn.
-||matt.mercadolibre.
 ||cnt.hd21.
 ||grs.dbankcloud.
 ||gtmdev.jabra.
@@ -501,11 +469,11 @@ Banner468x60
 ||servo-report.dvdfab.
 ||a*.smlog.co.kr^
 ||analytics-api.dvdfab.
+||invenio_tracking_*.sgnapps.com^
 ||seller-log-collector.shopee.
 ||sta.zone-telechargement.
 ||t.delfi.
 ||analytics.ticketmaster.
-||sgtm.fashionunited.
 ||analytics.streamfab.
 ||log-collector.shopee.
 directtrack.*.js
@@ -523,5 +491,37 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||sta.wawacity.
 ||pixel.archive.
 ||wa.gmx.
-||track.tiara.
 ||df.infra.shopee.
+||sf*-fe-tos.pglstatp-toutiao.com^
+||log-api.pangolin-sdk-toutiao-*.com^
+||matt.mercadolibre.
+||v*-be-pack.pglstatp-toutiao.com^
+||s*a.pstatp.com^
+||tracking.olx.
+||XiaoQiang^
+||s*-fe-scm.pglstatp-toutiao.com^
+|samsungcloudsolution.net^
+||track.zalando.
+||allsportsflix.
+||oempprd.samsungcloudsolution.
+||23.109.87.
+||sgtm.fashionunited.
+Banner468x60
+||adx-*.dbankcloud.
+||23.109.82.
+||get-me-wow.
+||tnc3-bjlgy.snssdk.^
+||ubt.tracking.shopee.
+||sf*-be-pack.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+|lgtvsdp.com^
+||localhost^
+||tracker.twenga.
+|samsungcloudsolution.com^
+||158.247.208.
+||access*.tpns.tencent.com^
+||mishop.pandora.xiaomi.com.^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||track.tiara.
+||access.pangolin-sdk-toutiao-*.com^

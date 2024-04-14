@@ -1,4 +1,4 @@
-# Update time: 2024-04-13 20:29:10
+# Update time: 2024-04-14 09:49:30
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -10068,6 +10068,7 @@
 0.0.0.0 playstream.co
 0.0.0.0 secure-dcr.imrworldwide.com
 0.0.0.0 counter.superstats.com
+0.0.0.0 confirm1509account4715.com
 0.0.0.0 cdn.freejax.com
 0.0.0.0 sky.od.ua
 0.0.0.0 clit15.sextracker.com
