@@ -1,4 +1,4 @@
-# Update time: 2024-04-16 09:18:10
+# Update time: 2024-04-16 20:34:23
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -26,6 +26,7 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
+@@||adobeid-*.services.adobe.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -84,7 +85,6 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-@@||adobeid-*.services.adobe.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -464,6 +464,7 @@ advertisers.js|
 |piwik.
 ||pixel*.adswizz.com
 ||tccd.douglas.
+||tracking.olx.
 ||sta.extreme-down.
 ||cnt.nuvid.
 ||adservice.google.
@@ -474,7 +475,6 @@ advertisers.js|
 ||invenio_tracking_*.sgnapps.com^
 ||seller-log-collector.shopee.
 ||sta.zone-telechargement.
-||t.delfi.
 ||analytics.ticketmaster.
 ||sgtm.fashionunited.
 ||analytics.streamfab.
@@ -486,7 +486,6 @@ directtrack.*.js
 ||stats.zone-telechargement.
 @@||cdn-msp*.18comic.*^
 ||cnt.tubeon.
-||tracker.twenga.
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
@@ -501,13 +500,13 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||log-api.pangolin-sdk-toutiao-*.com^
 ||v*-be-pack.pglstatp-toutiao.com^
 ||s*a.pstatp.com^
-||tracking.olx.
 ||XiaoQiang^
 ||s*-fe-scm.pglstatp-toutiao.com^
 |samsungcloudsolution.net^
 ||allsportsflix.
 ||oempprd.samsungcloudsolution.
 ||23.109.87.
+||t.delfi.
 Banner468x60
 ||adx-*.dbankcloud.
 ||23.109.82.
@@ -518,6 +517,7 @@ Banner468x60
 |lgtvsdp.com^
 ||stat.tiara.
 ||localhost^
+||tracker.twenga.
 |samsungcloudsolution.com^
 ||158.247.208.
 ||access*.tpns.tencent.com^
