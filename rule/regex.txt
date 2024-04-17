@@ -1,4 +1,4 @@
-# Update time: 2024-04-16 20:34:23
+# Update time: 2024-04-17 09:18:41
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -26,7 +26,6 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
-@@||adobeid-*.services.adobe.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -85,6 +84,7 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+@@||adobeid-*.services.adobe.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -464,17 +464,13 @@ advertisers.js|
 |piwik.
 ||pixel*.adswizz.com
 ||tccd.douglas.
-||tracking.olx.
-||sta.extreme-down.
 ||cnt.nuvid.
 ||adservice.google.
 ||servo-report.dvdfab.
 ||a*.smlog.co.kr^
 ||analytics-api.dvdfab.
-||track.zalando.
 ||invenio_tracking_*.sgnapps.com^
 ||seller-log-collector.shopee.
-||sta.zone-telechargement.
 ||analytics.ticketmaster.
 ||sgtm.fashionunited.
 ||analytics.streamfab.
@@ -483,6 +479,7 @@ advertisers.js|
 directtrack.*.js
 ||cnt.proporn.
 ||cnt.vivatube.
+||stat.tiara.
 ||stats.zone-telechargement.
 @@||cdn-msp*.18comic.*^
 ||cnt.tubeon.
@@ -491,20 +488,22 @@ directtrack.*.js
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||button.blogs.yandex.
 ||collector.xhamster*.
-||sta.wawacity.
 ||pixel.archive.
 ||wa.gmx.
-||track.tiara.
 ||df.infra.shopee.
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||log-api.pangolin-sdk-toutiao-*.com^
 ||v*-be-pack.pglstatp-toutiao.com^
 ||s*a.pstatp.com^
+||tracking.olx.
+||sta.extreme-down.
 ||XiaoQiang^
 ||s*-fe-scm.pglstatp-toutiao.com^
 |samsungcloudsolution.net^
+||track.zalando.
 ||allsportsflix.
 ||oempprd.samsungcloudsolution.
+||sta.zone-telechargement.
 ||23.109.87.
 ||t.delfi.
 Banner468x60
@@ -515,7 +514,6 @@ Banner468x60
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
 |lgtvsdp.com^
-||stat.tiara.
 ||localhost^
 ||tracker.twenga.
 |samsungcloudsolution.com^
@@ -524,4 +522,6 @@ Banner468x60
 ||mishop.pandora.xiaomi.com.^
 ||fkp.samsungcloudsolution.
 |samsungqbe.com^
+||sta.wawacity.
+||track.tiara.
 ||access.pangolin-sdk-toutiao-*.com^
