@@ -1,4 +1,4 @@
-# Update time: 2024-04-17 20:34:07
+# Update time: 2024-04-18 09:18:15
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -26,6 +26,7 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
+@@||adobeid-*.services.adobe.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -84,7 +85,6 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-@@||adobeid-*.services.adobe.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -464,34 +464,28 @@ advertisers.js|
 |piwik.
 ||pixel*.adswizz.com
 ||tccd.douglas.
-||tracking.olx.
-||sta.extreme-down.
 ||cnt.nuvid.
 ||adservice.google.
+||servo-report.dvdfab.
 ||a*.smlog.co.kr^
 ||analytics-api.dvdfab.
+||track.zalando.
 ||invenio_tracking_*.sgnapps.com^
 ||seller-log-collector.shopee.
-||sta.zone-telechargement.
 ||t.delfi.
 ||analytics.ticketmaster.
-||sgtm.fashionunited.
 ||analytics.streamfab.
 ||log-collector.shopee.
 ||ubt.tracking.shopee.
 directtrack.*.js
 ||cnt.proporn.
 ||cnt.vivatube.
-||stat.tiara.
-||stats.zone-telechargement.
 @@||cdn-msp*.18comic.*^
 ||cnt.tubeon.
-||stats.zone-annuaire.
 ||df.infra.sz.shopee.
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||button.blogs.yandex.
 ||collector.xhamster*.
-||sta.wawacity.
 ||pixel.archive.
 ||wa.gmx.
 ||df.infra.shopee.
@@ -499,14 +493,16 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||log-api.pangolin-sdk-toutiao-*.com^
 ||v*-be-pack.pglstatp-toutiao.com^
 ||s*a.pstatp.com^
+||tracking.olx.
+||sta.extreme-down.
 ||XiaoQiang^
-||servo-report.dvdfab.
 ||s*-fe-scm.pglstatp-toutiao.com^
 |samsungcloudsolution.net^
-||track.zalando.
 ||allsportsflix.
 ||oempprd.samsungcloudsolution.
+||sta.zone-telechargement.
 ||23.109.87.
+||sgtm.fashionunited.
 Banner468x60
 ||adx-*.dbankcloud.
 ||23.109.82.
@@ -515,13 +511,17 @@ Banner468x60
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
 |lgtvsdp.com^
+||stat.tiara.
+||stats.zone-telechargement.
 ||localhost^
 ||tracker.twenga.
 |samsungcloudsolution.com^
 ||158.247.208.
+||stats.zone-annuaire.
 ||access*.tpns.tencent.com^
 ||mishop.pandora.xiaomi.com.^
 ||fkp.samsungcloudsolution.
 |samsungqbe.com^
+||sta.wawacity.
 ||track.tiara.
 ||access.pangolin-sdk-toutiao-*.com^
