@@ -1,4 +1,4 @@
-# Update time: 2024-04-19 09:19:31
+# Update time: 2024-04-19 20:33:41
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -463,7 +463,6 @@ advertisers.js|
 ||collector.hamsterix.
 |piwik.
 ||pixel*.adswizz.com
-||tccd.douglas.
 ||sta.extreme-down.
 ||cnt.nuvid.
 ||adservice.google.
@@ -482,6 +481,7 @@ advertisers.js|
 directtrack.*.js
 ||cnt.proporn.
 ||cnt.vivatube.
+||stat.tiara.
 ||stats.zone-telechargement.
 @@||cdn-msp*.18comic.*^
 ||cnt.tubeon.
@@ -493,12 +493,14 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||collector.xhamster*.
 ||sta.wawacity.
 ||pixel.archive.
+||wa.gmx.
 ||track.tiara.
 ||df.infra.shopee.
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||log-api.pangolin-sdk-toutiao-*.com^
 ||v*-be-pack.pglstatp-toutiao.com^
 ||s*a.pstatp.com^
+||tccd.douglas.
 ||tracking.olx.
 ||XiaoQiang^
 ||s*-fe-scm.pglstatp-toutiao.com^
@@ -515,7 +517,6 @@ Banner468x60
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
 |lgtvsdp.com^
-||stat.tiara.
 ||localhost^
 |samsungcloudsolution.com^
 ||158.247.208.
@@ -523,5 +524,4 @@ Banner468x60
 ||mishop.pandora.xiaomi.com.^
 ||fkp.samsungcloudsolution.
 |samsungqbe.com^
-||wa.gmx.
 ||access.pangolin-sdk-toutiao-*.com^
