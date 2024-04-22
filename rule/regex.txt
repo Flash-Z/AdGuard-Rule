@@ -1,4 +1,4 @@
-# Update time: 2024-04-21 20:33:05
+# Update time: 2024-04-22 09:21:42
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -26,6 +26,7 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
+@@||adobeid-*.services.adobe.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -84,7 +85,6 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-@@||adobeid-*.services.adobe.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -453,6 +453,32 @@ advertisers.js|
 ||analytics-ad-*.kgslb.com^
 ||aj2*.bid^
 ||analytics*.prezly.com^
+||sf*-fe-tos.pglstatp-toutiao.com^
+||log-api.pangolin-sdk-toutiao-*.com^
+||v*-be-pack.pglstatp-toutiao.com^
+||s*a.pstatp.com^
+||XiaoQiang^
+||s*-fe-scm.pglstatp-toutiao.com^
+|samsungcloudsolution.net^
+||allsportsflix.
+||oempprd.samsungcloudsolution.
+||23.109.87.
+Banner468x60
+||adx-*.dbankcloud.
+||23.109.82.
+||get-me-wow.
+||tnc3-bjlgy.snssdk.^
+||sf*-be-pack.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+|lgtvsdp.com^
+||localhost^
+|samsungcloudsolution.com^
+||158.247.208.
+||access*.tpns.tencent.com^
+||mishop.pandora.xiaomi.com.^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||access.pangolin-sdk-toutiao-*.com^
 ||bc.geocities.
 ||cnt.yeptube.
 ||cnt.winporn.
@@ -463,6 +489,8 @@ advertisers.js|
 ||collector.hamsterix.
 |piwik.
 ||pixel*.adswizz.com
+||tccd.douglas.
+||tracking.olx.
 ||sta.extreme-down.
 ||cnt.nuvid.
 ||adservice.google.
@@ -483,9 +511,11 @@ directtrack.*.js
 ||cnt.proporn.
 ||cnt.vivatube.
 ||stat.tiara.
+||stats.zone-telechargement.
 @@||cdn-msp*.18comic.*^
 ||cnt.tubeon.
 ||tracker.twenga.
+||stats.zone-annuaire.
 ||df.infra.sz.shopee.
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||button.blogs.yandex.
@@ -495,33 +525,3 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||wa.gmx.
 ||track.tiara.
 ||df.infra.shopee.
-||sf*-fe-tos.pglstatp-toutiao.com^
-||log-api.pangolin-sdk-toutiao-*.com^
-||v*-be-pack.pglstatp-toutiao.com^
-||s*a.pstatp.com^
-||tccd.douglas.
-||tracking.olx.
-||XiaoQiang^
-||s*-fe-scm.pglstatp-toutiao.com^
-|samsungcloudsolution.net^
-||allsportsflix.
-||oempprd.samsungcloudsolution.
-||23.109.87.
-Banner468x60
-||adx-*.dbankcloud.
-||23.109.82.
-||get-me-wow.
-||tnc3-bjlgy.snssdk.^
-||sf*-be-pack.pglstatp-toutiao.com^
-||api-access.pangolin-sdk-toutiao-*.com^
-|lgtvsdp.com^
-||stats.zone-telechargement.
-||localhost^
-|samsungcloudsolution.com^
-||158.247.208.
-||stats.zone-annuaire.
-||access*.tpns.tencent.com^
-||mishop.pandora.xiaomi.com.^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||access.pangolin-sdk-toutiao-*.com^
