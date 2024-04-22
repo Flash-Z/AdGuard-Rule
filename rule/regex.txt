@@ -1,4 +1,4 @@
-# Update time: 2024-04-22 09:21:42
+# Update time: 2024-04-22 20:35:39
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -26,7 +26,6 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
-@@||adobeid-*.services.adobe.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -85,6 +84,7 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+@@||adobeid-*.services.adobe.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -457,6 +457,7 @@ advertisers.js|
 ||log-api.pangolin-sdk-toutiao-*.com^
 ||v*-be-pack.pglstatp-toutiao.com^
 ||s*a.pstatp.com^
+||tccd.douglas.
 ||XiaoQiang^
 ||s*-fe-scm.pglstatp-toutiao.com^
 |samsungcloudsolution.net^
@@ -489,7 +490,6 @@ Banner468x60
 ||collector.hamsterix.
 |piwik.
 ||pixel*.adswizz.com
-||tccd.douglas.
 ||tracking.olx.
 ||sta.extreme-down.
 ||cnt.nuvid.
