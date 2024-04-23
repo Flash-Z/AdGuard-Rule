@@ -1,4 +1,4 @@
-# Update time: 2024-04-23 09:20:04
+# Update time: 2024-04-23 20:35:47
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -95,7 +95,6 @@ advertisers.js|
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
 ||bdlm*.hc360.com^
-||ac*.786ip.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||d*.xinshipu.com^
@@ -103,7 +102,6 @@ advertisers.js|
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -112,7 +110,6 @@ advertisers.js|
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
-||ac*.faxingchina.com^
 ||fpb1.chinacar.
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
@@ -252,12 +249,14 @@ advertisers.js|
 ||ce-global-track-*.amazonaws.com^
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
+||ac*.786ip.com^
 ||sock*-goguardian.pusher.com^
 ||geotargetly-api-*.com^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||bj1*.online^
+||ac*.pingguolv.com^
 ||marketplace-*.hyprmx.com^
 ||mistat.*.xiaomi.com^
 ||ad*.ettoday.net^
@@ -396,6 +395,7 @@ advertisers.js|
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
 ||ads*-normal*.zijieapi.com^
+||ac*.faxingchina.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||adcs-*.myappsget.com^
@@ -453,6 +453,33 @@ advertisers.js|
 ||analytics-ad-*.kgslb.com^
 ||aj2*.bid^
 ||analytics*.prezly.com^
+||sf*-fe-tos.pglstatp-toutiao.com^
+||log-api.pangolin-sdk-toutiao-*.com^
+||v*-be-pack.pglstatp-toutiao.com^
+||s*a.pstatp.com^
+||tracking.olx.
+||XiaoQiang^
+||s*-fe-scm.pglstatp-toutiao.com^
+|samsungcloudsolution.net^
+||allsportsflix.
+||oempprd.samsungcloudsolution.
+||23.109.87.
+Banner468x60
+||adx-*.dbankcloud.
+||23.109.82.
+||get-me-wow.
+||tnc3-bjlgy.snssdk.^
+||sf*-be-pack.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+|lgtvsdp.com^
+||localhost^
+|samsungcloudsolution.com^
+||158.247.208.
+||access*.tpns.tencent.com^
+||mishop.pandora.xiaomi.com.^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||access.pangolin-sdk-toutiao-*.com^
 ||bc.geocities.
 ||cnt.yeptube.
 ||cnt.winporn.
@@ -464,7 +491,6 @@ advertisers.js|
 |piwik.
 ||pixel*.adswizz.com
 ||tccd.douglas.
-||tracking.olx.
 ||sta.extreme-down.
 ||cnt.nuvid.
 ||adservice.google.
@@ -497,31 +523,5 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||sta.wawacity.
 ||pixel.archive.
 ||wa.gmx.
-||df.infra.shopee.
-||sf*-fe-tos.pglstatp-toutiao.com^
-||log-api.pangolin-sdk-toutiao-*.com^
-||v*-be-pack.pglstatp-toutiao.com^
-||s*a.pstatp.com^
-||XiaoQiang^
-||s*-fe-scm.pglstatp-toutiao.com^
-|samsungcloudsolution.net^
-||allsportsflix.
-||oempprd.samsungcloudsolution.
-||23.109.87.
-Banner468x60
-||adx-*.dbankcloud.
-||23.109.82.
-||get-me-wow.
-||tnc3-bjlgy.snssdk.^
-||sf*-be-pack.pglstatp-toutiao.com^
-||api-access.pangolin-sdk-toutiao-*.com^
-|lgtvsdp.com^
-||localhost^
-|samsungcloudsolution.com^
-||158.247.208.
-||access*.tpns.tencent.com^
-||mishop.pandora.xiaomi.com.^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
 ||track.tiara.
-||access.pangolin-sdk-toutiao-*.com^
+||df.infra.shopee.
