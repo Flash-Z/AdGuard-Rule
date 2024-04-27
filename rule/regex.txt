@@ -1,4 +1,4 @@
-# Update time: 2024-04-26 20:34:22
+# Update time: 2024-04-27 09:18:43
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -465,6 +465,7 @@ advertisers.js|
 |piwik.
 ||pixel*.adswizz.com
 ||tccd.douglas.
+||tracking.olx.
 ||sta.extreme-down.
 ||cnt.nuvid.
 ||adservice.google.
@@ -496,14 +497,12 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||collector.xhamster*.
 ||sta.wawacity.
 ||pixel.archive.
-||wa.gmx.
 ||track.tiara.
 ||df.infra.shopee.
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||log-api.pangolin-sdk-toutiao-*.com^
 ||v*-be-pack.pglstatp-toutiao.com^
 ||s*a.pstatp.com^
-||tracking.olx.
 ||XiaoQiang^
 ||s*-fe-scm.pglstatp-toutiao.com^
 |samsungcloudsolution.net^
@@ -525,4 +524,5 @@ Banner468x60
 ||mishop.pandora.xiaomi.com.^
 ||fkp.samsungcloudsolution.
 |samsungqbe.com^
+||wa.gmx.
 ||access.pangolin-sdk-toutiao-*.com^
