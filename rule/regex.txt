@@ -1,4 +1,4 @@
-# Update time: 2024-04-28 09:25:31
+# Update time: 2024-04-28 20:34:21
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -14,7 +14,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -48,6 +47,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -454,37 +454,6 @@ advertisers.js|
 ||aj2*.bid^
 ||analytics*.prezly.com^
 ||collector*.ex.co^
-||sf*-fe-tos.pglstatp-toutiao.com^
-||log-api.pangolin-sdk-toutiao-*.com^
-||v*-be-pack.pglstatp-toutiao.com^
-||s*a.pstatp.com^
-||tracking.olx.
-||XiaoQiang^
-||s*-fe-scm.pglstatp-toutiao.com^
-|samsungcloudsolution.net^
-||allsportsflix.
-||oempprd.samsungcloudsolution.
-||23.109.87.
-Banner468x60
-||adx-*.dbankcloud.
-||23.109.82.
-||get-me-wow.
-||tnc3-bjlgy.snssdk.^
-||sf*-be-pack.pglstatp-toutiao.com^
-||api-access.pangolin-sdk-toutiao-*.com^
-|lgtvsdp.com^
-||stat.tiara.
-||stats.zone-telechargement.
-||localhost^
-|samsungcloudsolution.com^
-||158.247.208.
-||stats.zone-annuaire.
-||access*.tpns.tencent.com^
-||mishop.pandora.xiaomi.com.^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||track.tiara.
-||access.pangolin-sdk-toutiao-*.com^
 ||bc.geocities.
 ||cnt.yeptube.
 ||cnt.winporn.
@@ -515,9 +484,11 @@ Banner468x60
 directtrack.*.js
 ||cnt.proporn.
 ||cnt.vivatube.
+||stat.tiara.
+||stats.zone-telechargement.
 @@||cdn-msp*.18comic.*^
 ||cnt.tubeon.
-||tracker.twenga.
+||stats.zone-annuaire.
 ||df.infra.sz.shopee.
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||button.blogs.yandex.
@@ -525,4 +496,33 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||sta.wawacity.
 ||pixel.archive.
 ||wa.gmx.
+||track.tiara.
 ||df.infra.shopee.
+||sf*-fe-tos.pglstatp-toutiao.com^
+||log-api.pangolin-sdk-toutiao-*.com^
+||v*-be-pack.pglstatp-toutiao.com^
+||s*a.pstatp.com^
+||tracking.olx.
+||XiaoQiang^
+||s*-fe-scm.pglstatp-toutiao.com^
+|samsungcloudsolution.net^
+||allsportsflix.
+||oempprd.samsungcloudsolution.
+||23.109.87.
+Banner468x60
+||adx-*.dbankcloud.
+||23.109.82.
+||get-me-wow.
+||tnc3-bjlgy.snssdk.^
+||sf*-be-pack.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+|lgtvsdp.com^
+||localhost^
+||tracker.twenga.
+|samsungcloudsolution.com^
+||158.247.208.
+||access*.tpns.tencent.com^
+||mishop.pandora.xiaomi.com.^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||access.pangolin-sdk-toutiao-*.com^
