@@ -1,4 +1,4 @@
-# Update time: 2024-04-30 09:19:50
+# Update time: 2024-04-30 20:34:41
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -26,6 +26,7 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
+@@||adobeid-*.services.adobe.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -84,7 +85,6 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-@@||adobeid-*.services.adobe.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -464,7 +464,6 @@ advertisers.js|
 ||collector.hamsterix.
 |piwik.
 ||pixel*.adswizz.com
-||tccd.douglas.
 ||tracking.olx.
 ||sta.extreme-down.
 ||cnt.nuvid.
@@ -489,7 +488,6 @@ directtrack.*.js
 ||stats.zone-telechargement.
 @@||cdn-msp*.18comic.*^
 ||cnt.tubeon.
-||tracker.twenga.
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
@@ -497,13 +495,15 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||collector.xhamster*.
 ||sta.wawacity.
 ||pixel.archive.
-||track.tiara.
+||wa.gmx.
 ||df.infra.shopee.
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||log-api.pangolin-sdk-toutiao-*.com^
 ||v*-be-pack.pglstatp-toutiao.com^
 ||s*a.pstatp.com^
+||tccd.douglas.
 ||XiaoQiang^
+||api*.bidmachine.io^
 ||s*-fe-scm.pglstatp-toutiao.com^
 |samsungcloudsolution.net^
 ||allsportsflix.
@@ -518,11 +518,12 @@ Banner468x60
 ||api-access.pangolin-sdk-toutiao-*.com^
 |lgtvsdp.com^
 ||localhost^
+||tracker.twenga.
 |samsungcloudsolution.com^
 ||158.247.208.
 ||access*.tpns.tencent.com^
 ||mishop.pandora.xiaomi.com.^
 ||fkp.samsungcloudsolution.
 |samsungqbe.com^
-||wa.gmx.
+||track.tiara.
 ||access.pangolin-sdk-toutiao-*.com^
