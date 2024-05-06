@@ -1,4 +1,4 @@
-# Update time: 2024-05-05 20:33:19
+# Update time: 2024-05-06 09:22:20
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule

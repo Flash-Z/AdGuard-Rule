@@ -1,4 +1,4 @@
-# Update time: 2024-05-05 20:33:19
+# Update time: 2024-05-06 09:22:20
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -232,6 +232,7 @@ advertisers.js|
 ||tnc3-bjlgy.snssdk.^
 ||ubt.tracking.shopee.
 ||api-access.pangolin-sdk-toutiao-*.com^
+||stats2.*.fdnames.com^
 |lgtvsdp.com^
 ||stats.zone-telechargement.
 ||localhost^
@@ -250,7 +251,6 @@ advertisers.js|
 ||fls-*.amazon.com^
 ||tccd.douglas.
 ||XiaoQiang^
-||a*.chajiaotong.com^
 ||servo-report.dvdfab.
 ||s*-fe-scm.pglstatp-toutiao.com^
 ||geotargetly-api-*.com^
@@ -283,7 +283,6 @@ advertisers.js|
 ||collector-*.us.tvsquared.com^
 ||telemetry*.transcend.io^
 ||log*-misc-lf.amemv.com^
-||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||opnked*.xyz^
 ||ajx*.online^
@@ -421,6 +420,7 @@ advertisers.js|
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
+||a*.chajiaotong.com^
 ||gads*s.com^
 ||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
