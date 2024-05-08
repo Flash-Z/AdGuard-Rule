@@ -1,4 +1,4 @@
-# Update time: 2024-05-08 09:07:31
+# Update time: 2024-05-08 20:36:14
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -4273,6 +4273,7 @@
 0.0.0.0 unimed.oewabox.at
 0.0.0.0 adserver.sandbox.cxad.cxense.com
 0.0.0.0 bestsushiever.com
+0.0.0.0 e.email.simon.com
 0.0.0.0 augi.fr
 0.0.0.0 www.lansrv050.com
 0.0.0.0 ad.zodera.hu
