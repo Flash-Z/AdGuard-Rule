@@ -1,4 +1,4 @@
-# Update time: 2024-05-11 09:21:06
+# Update time: 2024-05-11 20:33:27
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -93,6 +93,7 @@ advertisers.js|
 ||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
+||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
 ||ac*.786ip.com^
 728x90.jpg|
@@ -234,16 +235,17 @@ advertisers.js|
 ||s*-fe-scm.pglstatp-toutiao.com^
 |samsungcloudsolution.net^
 ||geotargetly-api-*.com^
+||ad*.on.cc^
 ||oempprd.samsungcloudsolution.
 ||sta.zone-telechargement.
 ||log-*.previewnetworks.com^
 ||analytics.ticketmaster.
 ||faro-collector-prod-*.grafana.net^
 ||collector-*.px-client.net^
+||stat.*.v-56.com^
 ||api.*.hismarttv.com^
 ||tnc3-bjlgy.snssdk.^
 ||ubt.tracking.shopee.
-||ads*-normal*.zijieapi.com^
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
 |lgtvsdp.com^
@@ -391,7 +393,6 @@ advertisers.js|
 ||w*.*skwai.com^
 ||analytics-*-nfl.yinzcam.com^
 ||xlog*-*.tiktokv.com^
-||ad*.on.cc^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||st-*.dynamicyield.com^
@@ -419,7 +420,6 @@ advertisers.js|
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
-||a*.chajiaotong.com^
 ||gads*s.com^
 ||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
@@ -431,10 +431,10 @@ advertisers.js|
 ||api*.batmobil.net^
 ||ej1*.online^
 ||log-*.epicdn.me^
-||stat.*.v-56.com^
 ||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
+||ads*-normal*.zijieapi.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||adcs-*.myappsget.com^
