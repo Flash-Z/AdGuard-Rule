@@ -1,22 +1,28 @@
-# Update time: 2024-05-13 09:24:06
+# Update time: 2024-05-13 20:36:28
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
 ! Expires: 1 day (update frequency)
 
 ||report.*.qq.com^
+||allyes.
 ||icast.
 ||gg.
 ||union.
+||ad.
 ||ads.
 ||cnzz.
 ||adsfile.
+||adserver.
 ||adpic.
 ||sax.sina.
 ||biz5.
+||adsense.
 ||xmindchina.
+||ggg.
 ||admaster.
 ||googleadservices.
+||irs01.
 ||saxs.sina.
 ||adsame.
 ||onetrust.
@@ -36,11 +42,8 @@ MRelateFeedAd
 ||adstats.
 ||toujing*.top^
 ||popup.*.js*
-||ggg.
 ||advert.
-||irs01.
 ||advert-
-||allyes.
 ||adcolony.
 ||advertising.
 ||showad*
@@ -60,18 +63,15 @@ getAds|
 ||appjiagu.
 ||img.piaosugo.com*.jpg
 ||adsmis.
-||adserver.
 ||sense-*.tapdb.net^
 ||pc.min.js*
 ||minero-proxy-*now.sh
 ||pagead2.
 ||guangyaoli.
-||adsense.
 ||ading.
 ||googleads.
 ||umengacs.
 ||ads-
-||ad.
 piao.js|
 oHead6205.appendChild( oScript6205);
 ||ad-
@@ -94,6 +94,7 @@ advertisers.js|
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
 ||bdlm*.hc360.com^
+||ac*.786ip.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||d*.xinshipu.com^
@@ -101,6 +102,7 @@ advertisers.js|
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
+||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -109,6 +111,7 @@ advertisers.js|
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
+||ac*.faxingchina.com^
 ||fpb1.chinacar.
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
@@ -236,16 +239,18 @@ advertisers.js|
 ||log-*.previewnetworks.com^
 ||analytics.ticketmaster.
 ||faro-collector-prod-*.grafana.net^
+||collector-*.px-client.net^
 ||stat.*.v-56.com^
 ||tnc3-bjlgy.snssdk.^
 ||ubt.tracking.shopee.
+||ads*-normal*.zijieapi.com^
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
-||stats2.*.fdnames.com^
 |lgtvsdp.com^
 ||stats.zone-telechargement.
 ||localhost^
 ||tracker.twenga.
+||aff*.kolektiva.net^
 |samsungcloudsolution.com^
 ||stats.zone-annuaire.
 ||access*.tpns.tencent.com^
@@ -275,6 +280,7 @@ advertisers.js|
 ||collector-*.us.tvsquared.com^
 ||telemetry*.transcend.io^
 ||log*-misc-lf.amemv.com^
+||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||opnked*.xyz^
 ||ajx*.online^
@@ -292,13 +298,11 @@ advertisers.js|
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
 ||api*.bidmachine.io^
-||ac*.786ip.com^
 ||sock*-goguardian.pusher.com^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||bj1*.online^
-||ac*.pingguolv.com^
 ||marketplace-*.hyprmx.com^
 ||mistat.*.xiaomi.com^
 ||ad*.ettoday.net^
@@ -335,7 +339,6 @@ advertisers.js|
 ||mob*.novanewsapp.com^
 ||ad-*.appacc.dbankedge.cn^
 ||aj1*.online^
-||aff*.kolektiva.net^
 ||events*.cre.ma^
 ||163487*.qmgmw.com^
 ||adx-*.dbankedge.cn^
@@ -426,14 +429,11 @@ advertisers.js|
 ||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||api*.batmobil.net^
-||collector-*.px-client.net^
 ||ej1*.online^
 ||log-*.epicdn.me^
 ||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
-||ads*-normal*.zijieapi.com^
-||ac*.faxingchina.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||adcs-*.myappsget.com^
