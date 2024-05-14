@@ -1,4 +1,4 @@
-# Update time: 2024-05-14 09:22:13
+# Update time: 2024-05-14 20:37:16
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -94,7 +94,6 @@ advertisers.js|
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
 ||bdlm*.hc360.com^
-||ac*.786ip.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||d*.xinshipu.com^
@@ -102,7 +101,6 @@ advertisers.js|
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -111,7 +109,6 @@ advertisers.js|
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
-||ac*.faxingchina.com^
 ||fpb1.chinacar.
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
@@ -226,7 +223,6 @@ advertisers.js|
 ||tccd.douglas.
 ||hn-ping*.hashnode.com^
 ||sta.extreme-down.
-||mcdp-*.outbrain.com^
 ||XiaoQiang^
 ||adservice.google.
 ||servo-report.dvdfab.
@@ -234,24 +230,20 @@ advertisers.js|
 ||s*-fe-scm.pglstatp-toutiao.com^
 |samsungcloudsolution.net^
 ||geotargetly-api-*.com^
-||ad*.on.cc^
 ||oempprd.samsungcloudsolution.
 ||sta.zone-telechargement.
 ||log-*.previewnetworks.com^
 ||analytics.ticketmaster.
 ||faro-collector-prod-*.grafana.net^
 ||collector-*.px-client.net^
-||api.*.hismarttv.com^
 ||tnc3-bjlgy.snssdk.^
 ||ubt.tracking.shopee.
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
-||stats2.*.fdnames.com^
 |lgtvsdp.com^
 ||stats.zone-telechargement.
 ||localhost^
 ||tracker.twenga.
-||aff*.kolektiva.net^
 |samsungcloudsolution.com^
 ||stats.zone-annuaire.
 ||access*.tpns.tencent.com^
@@ -281,6 +273,7 @@ advertisers.js|
 ||collector-*.us.tvsquared.com^
 ||telemetry*.transcend.io^
 ||log*-misc-lf.amemv.com^
+||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||opnked*.xyz^
 ||ajx*.online^
@@ -298,11 +291,13 @@ advertisers.js|
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
 ||api*.bidmachine.io^
+||ac*.786ip.com^
 ||sock*-goguardian.pusher.com^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||bj1*.online^
+||ac*.pingguolv.com^
 ||marketplace-*.hyprmx.com^
 ||mistat.*.xiaomi.com^
 ||ad*.ettoday.net^
@@ -339,6 +334,7 @@ advertisers.js|
 ||mob*.novanewsapp.com^
 ||ad-*.appacc.dbankedge.cn^
 ||aj1*.online^
+||aff*.kolektiva.net^
 ||events*.cre.ma^
 ||163487*.qmgmw.com^
 ||adx-*.dbankedge.cn^
@@ -391,6 +387,7 @@ advertisers.js|
 ||w*.*skwai.com^
 ||analytics-*-nfl.yinzcam.com^
 ||xlog*-*.tiktokv.com^
+||ad*.on.cc^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||st-*.dynamicyield.com^
@@ -435,6 +432,7 @@ advertisers.js|
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
 ||ads*-normal*.zijieapi.com^
+||ac*.faxingchina.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||adcs-*.myappsget.com^
@@ -443,6 +441,7 @@ advertisers.js|
 ||zcchyw*.xyz^
 ||log*-misc-lq.amemv.com^
 ||log*.vietnamplus.vn^
+||mcdp-*.outbrain.com^
 ||sensorsdata*.read.duokan.com^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
@@ -456,6 +455,7 @@ advertisers.js|
 ||zabdybod*.club^
 ||ads*.depositfiles.org^
 ||hads*s.com^
+||api.*.hismarttv.com^
 ||geoloc*.geo20120530.com^
 ||fp-*it*.fengkongcloud.com^
 ||aj3*.bid^
