@@ -1,4 +1,4 @@
-# Update time: 2024-05-14 20:37:16
+# Update time: 2024-05-15 09:22:59
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -94,6 +94,7 @@ advertisers.js|
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
 ||bdlm*.hc360.com^
+||ac*.786ip.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||d*.xinshipu.com^
@@ -101,6 +102,7 @@ advertisers.js|
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
+||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -109,6 +111,7 @@ advertisers.js|
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
+||ac*.faxingchina.com^
 ||fpb1.chinacar.
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
@@ -223,6 +226,7 @@ advertisers.js|
 ||tccd.douglas.
 ||hn-ping*.hashnode.com^
 ||sta.extreme-down.
+||mcdp-*.outbrain.com^
 ||XiaoQiang^
 ||adservice.google.
 ||servo-report.dvdfab.
@@ -236,10 +240,12 @@ advertisers.js|
 ||analytics.ticketmaster.
 ||faro-collector-prod-*.grafana.net^
 ||collector-*.px-client.net^
+||stat.*.v-56.com^
 ||tnc3-bjlgy.snssdk.^
 ||ubt.tracking.shopee.
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
+||stats2.*.fdnames.com^
 |lgtvsdp.com^
 ||stats.zone-telechargement.
 ||localhost^
@@ -273,7 +279,6 @@ advertisers.js|
 ||collector-*.us.tvsquared.com^
 ||telemetry*.transcend.io^
 ||log*-misc-lf.amemv.com^
-||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||opnked*.xyz^
 ||ajx*.online^
@@ -291,13 +296,11 @@ advertisers.js|
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
 ||api*.bidmachine.io^
-||ac*.786ip.com^
 ||sock*-goguardian.pusher.com^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||bj1*.online^
-||ac*.pingguolv.com^
 ||marketplace-*.hyprmx.com^
 ||mistat.*.xiaomi.com^
 ||ad*.ettoday.net^
@@ -427,12 +430,10 @@ advertisers.js|
 ||api*.batmobil.net^
 ||ej1*.online^
 ||log-*.epicdn.me^
-||stat.*.v-56.com^
 ||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
 ||ads*-normal*.zijieapi.com^
-||ac*.faxingchina.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||adcs-*.myappsget.com^
@@ -441,7 +442,6 @@ advertisers.js|
 ||zcchyw*.xyz^
 ||log*-misc-lq.amemv.com^
 ||log*.vietnamplus.vn^
-||mcdp-*.outbrain.com^
 ||sensorsdata*.read.duokan.com^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
