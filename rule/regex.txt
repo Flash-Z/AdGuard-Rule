@@ -1,4 +1,4 @@
-# Update time: 2024-05-15 20:37:40
+# Update time: 2024-05-16 09:22:51
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -94,7 +94,6 @@ advertisers.js|
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
 ||bdlm*.hc360.com^
-||ac*.786ip.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||d*.xinshipu.com^
@@ -102,7 +101,6 @@ advertisers.js|
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -111,7 +109,6 @@ advertisers.js|
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
-||ac*.faxingchina.com^
 ||fpb1.chinacar.
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
@@ -232,7 +229,6 @@ advertisers.js|
 ||tnc3-bjlgy.snssdk.^
 ||ubt.tracking.shopee.
 ||api-access.pangolin-sdk-toutiao-*.com^
-||stats2.*.fdnames.com^
 |lgtvsdp.com^
 ||stats.zone-telechargement.
 ||localhost^
@@ -252,14 +248,17 @@ advertisers.js|
 ||tccd.douglas.
 ||XiaoQiang^
 ||servo-report.dvdfab.
+||ac*.786ip.com^
 ||s*-fe-scm.pglstatp-toutiao.com^
 ||geotargetly-api-*.com^
 ||log-*.previewnetworks.com^
 ||analytics.ticketmaster.
+||ac*.pingguolv.com^
 ||collector-*.px-client.net^
 ||stat.*.v-56.com^
 ||ads*-normal*.zijieapi.com^
 ||sf*-be-pack.pglstatp-toutiao.com^
+||ac*.faxingchina.com^
 ||tracker.twenga.
 ||stats.zone-annuaire.
 ||mishop.pandora.xiaomi.com.^
@@ -283,6 +282,7 @@ advertisers.js|
 ||collector-*.us.tvsquared.com^
 ||telemetry*.transcend.io^
 ||log*-misc-lf.amemv.com^
+||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||opnked*.xyz^
 ||ajx*.online^
