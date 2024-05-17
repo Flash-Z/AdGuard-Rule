@@ -1,4 +1,4 @@
-# Update time: 2024-05-17 09:23:20
+# Update time: 2024-05-17 20:35:23
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -216,53 +216,54 @@ advertisers.js|
 ||analyzer*.fc2.com^
 ||tracker*.qcloud.com^
 ||adwords*.*^
-||bc.geocities.
-||sf*-fe-tos.pglstatp-toutiao.com^
-||log-api.pangolin-sdk-toutiao-*.com^
 ||matt.mercadolibre.
 ||v*-be-pack.pglstatp-toutiao.com^
-||s*a.pstatp.com^
-||fls-*.amazon.com^
-||tccd.douglas.
 ||hn-ping*.hashnode.com^
 ||sta.extreme-down.
 ||mcdp-*.outbrain.com^
-||XiaoQiang^
 ||adservice.google.
-||servo-report.dvdfab.
 ||analytics-api.dvdfab.
-||s*-fe-scm.pglstatp-toutiao.com^
 |samsungcloudsolution.net^
-||geotargetly-api-*.com^
-||ad*.on.cc^
 ||oempprd.samsungcloudsolution.
 ||sta.zone-telechargement.
-||log-*.previewnetworks.com^
-||analytics.ticketmaster.
 ||faro-collector-prod-*.grafana.net^
-||collector-*.px-client.net^
-||stat.*.v-56.com^
+||api.*.hismarttv.com^
 ||tnc3-bjlgy.snssdk.^
 ||ubt.tracking.shopee.
-||sf*-be-pack.pglstatp-toutiao.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
 ||stats2.*.fdnames.com^
 |lgtvsdp.com^
 ||stats.zone-telechargement.
 ||localhost^
-||tracker.twenga.
 ||aff*.kolektiva.net^
 |samsungcloudsolution.com^
-||stats.zone-annuaire.
 ||access*.tpns.tencent.com^
 ||df.infra.sz.shopee.
-||mishop.pandora.xiaomi.com.^
 ||fkp.samsungcloudsolution.
 |samsungqbe.com^
-||sta.wawacity.
 ||pixel.archive.
-||access.pangolin-sdk-toutiao-*.com^
 ||hbbtv.*.de^
+||bc.geocities.
+||sf*-fe-tos.pglstatp-toutiao.com^
+||log-api.pangolin-sdk-toutiao-*.com^
+||s*a.pstatp.com^
+||fls-*.amazon.com^
+||tccd.douglas.
+||XiaoQiang^
+||a*.chajiaotong.com^
+||servo-report.dvdfab.
+||s*-fe-scm.pglstatp-toutiao.com^
+||geotargetly-api-*.com^
+||log-*.previewnetworks.com^
+||analytics.ticketmaster.
+||collector-*.px-client.net^
+||stat.*.v-56.com^
+||sf*-be-pack.pglstatp-toutiao.com^
+||tracker.twenga.
+||stats.zone-annuaire.
+||mishop.pandora.xiaomi.com.^
+||sta.wawacity.
+||access.pangolin-sdk-toutiao-*.com^
 ||df.infra.shopee.
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -391,6 +392,7 @@ advertisers.js|
 ||w*.*skwai.com^
 ||analytics-*-nfl.yinzcam.com^
 ||xlog*-*.tiktokv.com^
+||ad*.on.cc^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||st-*.dynamicyield.com^
@@ -418,7 +420,6 @@ advertisers.js|
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
-||a*.chajiaotong.com^
 ||gads*s.com^
 ||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
@@ -455,7 +456,6 @@ advertisers.js|
 ||zabdybod*.club^
 ||ads*.depositfiles.org^
 ||hads*s.com^
-||api.*.hismarttv.com^
 ||geoloc*.geo20120530.com^
 ||fp-*it*.fengkongcloud.com^
 ||aj3*.bid^
