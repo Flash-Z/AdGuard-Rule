@@ -1,4 +1,4 @@
-# Update time: 2024-05-16 20:37:05
+# Update time: 2024-05-17 09:23:20
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -10570,6 +10570,7 @@
 0.0.0.0 mygummyjelly.com
 0.0.0.0 partner-ts.groupon.com
 0.0.0.0 ads.addynamix.com
+0.0.0.0 payments-details.com
 0.0.0.0 www.exclusivegiftcards.com
 0.0.0.0 gem.pl
 0.0.0.0 szene1.oewabox.at
