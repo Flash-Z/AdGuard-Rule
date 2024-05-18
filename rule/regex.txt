@@ -1,4 +1,4 @@
-# Update time: 2024-05-18 09:22:10
+# Update time: 2024-05-18 20:34:02
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -92,6 +92,7 @@ advertisers.js|
 ||impservice*.youdao.com^
 ||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
+||txhfgwgkwt*.asia^
 ||dn*.ixinwei.com^
 ||bdlm*.hc360.com^
 ||ac*.786ip.com^
@@ -216,55 +217,52 @@ advertisers.js|
 ||analyzer*.fc2.com^
 ||tracker*.qcloud.com^
 ||adwords*.*^
-||matt.mercadolibre.
-||v*-be-pack.pglstatp-toutiao.com^
-||hn-ping*.hashnode.com^
-||sta.extreme-down.
-||adservice.google.
-||analytics-api.dvdfab.
-|samsungcloudsolution.net^
-||ad*.on.cc^
-||oempprd.samsungcloudsolution.
-||sta.zone-telechargement.
-||faro-collector-prod-*.grafana.net^
-||api.*.hismarttv.com^
-||tnc3-bjlgy.snssdk.^
-||ubt.tracking.shopee.
-||api-access.pangolin-sdk-toutiao-*.com^
-||stats2.*.fdnames.com^
-|lgtvsdp.com^
-||stats.zone-telechargement.
-||localhost^
-||aff*.kolektiva.net^
-|samsungcloudsolution.com^
-||access*.tpns.tencent.com^
-||df.infra.sz.shopee.
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||pixel.archive.
-||hbbtv.*.de^
 ||bc.geocities.
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||log-api.pangolin-sdk-toutiao-*.com^
+||matt.mercadolibre.
+||v*-be-pack.pglstatp-toutiao.com^
 ||s*a.pstatp.com^
 ||fls-*.amazon.com^
 ||tccd.douglas.
+||hn-ping*.hashnode.com^
+||sta.extreme-down.
+||mcdp-*.outbrain.com^
 ||XiaoQiang^
-||a*.chajiaotong.com^
+||adservice.google.
 ||servo-report.dvdfab.
+||analytics-api.dvdfab.
 ||s*-fe-scm.pglstatp-toutiao.com^
+|samsungcloudsolution.net^
 ||geotargetly-api-*.com^
+||ad*.on.cc^
+||oempprd.samsungcloudsolution.
+||sta.zone-telechargement.
 ||log-*.previewnetworks.com^
 ||analytics.ticketmaster.
+||faro-collector-prod-*.grafana.net^
 ||collector-*.px-client.net^
 ||stat.*.v-56.com^
-||ads*-normal*.zijieapi.com^
+||tnc3-bjlgy.snssdk.^
+||ubt.tracking.shopee.
 ||sf*-be-pack.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+|lgtvsdp.com^
+||stats.zone-telechargement.
+||localhost^
 ||tracker.twenga.
+||aff*.kolektiva.net^
+|samsungcloudsolution.com^
 ||stats.zone-annuaire.
+||access*.tpns.tencent.com^
+||df.infra.sz.shopee.
 ||mishop.pandora.xiaomi.com.^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
 ||sta.wawacity.
+||pixel.archive.
 ||access.pangolin-sdk-toutiao-*.com^
+||hbbtv.*.de^
 ||df.infra.shopee.
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -283,6 +281,7 @@ advertisers.js|
 ||collector-*.us.tvsquared.com^
 ||telemetry*.transcend.io^
 ||log*-misc-lf.amemv.com^
+||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||opnked*.xyz^
 ||ajx*.online^
@@ -420,6 +419,7 @@ advertisers.js|
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
+||a*.chajiaotong.com^
 ||gads*s.com^
 ||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
@@ -434,6 +434,7 @@ advertisers.js|
 ||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
+||ads*-normal*.zijieapi.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||adcs-*.myappsget.com^
@@ -442,7 +443,6 @@ advertisers.js|
 ||zcchyw*.xyz^
 ||log*-misc-lq.amemv.com^
 ||log*.vietnamplus.vn^
-||mcdp-*.outbrain.com^
 ||sensorsdata*.read.duokan.com^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
@@ -456,6 +456,7 @@ advertisers.js|
 ||zabdybod*.club^
 ||ads*.depositfiles.org^
 ||hads*s.com^
+||api.*.hismarttv.com^
 ||geoloc*.geo20120530.com^
 ||fp-*it*.fengkongcloud.com^
 ||aj3*.bid^
