@@ -1,4 +1,4 @@
-# Update time: 2024-05-17 20:35:23
+# Update time: 2024-05-18 09:22:10
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -220,10 +220,10 @@ advertisers.js|
 ||v*-be-pack.pglstatp-toutiao.com^
 ||hn-ping*.hashnode.com^
 ||sta.extreme-down.
-||mcdp-*.outbrain.com^
 ||adservice.google.
 ||analytics-api.dvdfab.
 |samsungcloudsolution.net^
+||ad*.on.cc^
 ||oempprd.samsungcloudsolution.
 ||sta.zone-telechargement.
 ||faro-collector-prod-*.grafana.net^
@@ -258,6 +258,7 @@ advertisers.js|
 ||analytics.ticketmaster.
 ||collector-*.px-client.net^
 ||stat.*.v-56.com^
+||ads*-normal*.zijieapi.com^
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||tracker.twenga.
 ||stats.zone-annuaire.
@@ -392,7 +393,6 @@ advertisers.js|
 ||w*.*skwai.com^
 ||analytics-*-nfl.yinzcam.com^
 ||xlog*-*.tiktokv.com^
-||ad*.on.cc^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||st-*.dynamicyield.com^
@@ -434,7 +434,6 @@ advertisers.js|
 ||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
-||ads*-normal*.zijieapi.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||adcs-*.myappsget.com^
@@ -443,6 +442,7 @@ advertisers.js|
 ||zcchyw*.xyz^
 ||log*-misc-lq.amemv.com^
 ||log*.vietnamplus.vn^
+||mcdp-*.outbrain.com^
 ||sensorsdata*.read.duokan.com^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
