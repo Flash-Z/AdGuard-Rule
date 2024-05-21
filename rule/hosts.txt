@@ -1,4 +1,4 @@
-# Update time: 2024-05-20 20:38:16
+# Update time: 2024-05-21 09:22:51
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -8307,6 +8307,7 @@
 0.0.0.0 adidm.idmnet.pl
 0.0.0.0 bigbrandpromotions.com
 0.0.0.0 ehg-corusentertainment.hitbox.com
+0.0.0.0 eu2.contabostorage.com
 0.0.0.0 sitestats.tiscali.co.uk
 0.0.0.0 sso.canada.com
 0.0.0.0 karinart.de
