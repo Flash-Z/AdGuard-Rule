@@ -1,4 +1,4 @@
-# Update time: 2024-05-21 20:36:21
+# Update time: 2024-05-22 09:23:37
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -3694,6 +3694,7 @@
 0.0.0.0 gntbcstkxtv.112.2o7.net
 0.0.0.0 hm.baidu.com
 0.0.0.0 ph-ad20.focalink.com
+0.0.0.0 serv-canada2024.com
 0.0.0.0 popunder.loading-delivery1.com
 0.0.0.0 t.atpanel.com
 0.0.0.0 openads.dimcab.com
