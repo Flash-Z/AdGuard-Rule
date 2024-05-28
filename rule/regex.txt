@@ -1,4 +1,4 @@
-# Update time: 2024-05-27 20:36:57
+# Update time: 2024-05-28 09:23:50
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -96,6 +96,7 @@ advertisers.js|
 ||fanpingbi*.gaokao.com^
 ||txhfgwgkwt*.asia^
 ||dn*.ixinwei.com^
+||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
 ||ac*.786ip.com^
 728x90.jpg|
@@ -382,7 +383,6 @@ advertisers.js|
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
-||a*.chajiaotong.com^
 ||gads*s.com^
 ||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
