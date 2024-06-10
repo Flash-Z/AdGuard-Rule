@@ -1,4 +1,4 @@
-# Update time: 2024-06-10 09:34:33
+# Update time: 2024-06-10 20:38:52
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -5594,6 +5594,7 @@
 0.0.0.0 go.cz.bbelements.com
 0.0.0.0 msn-cdn.effectivemeasure.net
 0.0.0.0 interimairesssante.fr
+0.0.0.0 scotiahelp-loginscotia.com
 0.0.0.0 s.boom.ro
 0.0.0.0 xoomer.alice.it
 0.0.0.0 u7748.16.spylog.com
