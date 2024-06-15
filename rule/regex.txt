@@ -1,4 +1,4 @@
-# Update time: 2024-06-15 09:26:02
+# Update time: 2024-06-15 20:36:06
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -515,7 +515,6 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||rgfftupf.
 ||gamenguide.com*adbk
 ||s*-fe-scm.pglstatp-toutiao.com^
-tml
 |samsungcloudsolution.net^
 ||centent.streamp1ay.
 ||142.91.159.
