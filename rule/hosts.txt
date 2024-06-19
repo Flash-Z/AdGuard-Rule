@@ -1,4 +1,4 @@
-# Update time: 2024-06-18 20:38:29
+# Update time: 2024-06-19 09:33:23
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -11245,6 +11245,7 @@
 0.0.0.0 stage101.hitbox.com
 0.0.0.0 adbers.com
 0.0.0.0 www.wantsfly.com
+0.0.0.0 z3.skdfoiqwjelmdkfser.ru
 0.0.0.0 ad.groupon.be
 0.0.0.0 connect.247media.ads.link4ads.com
 0.0.0.0 www.screen-mates.com
