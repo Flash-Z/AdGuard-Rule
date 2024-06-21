@@ -1,4 +1,4 @@
-# Update time: 2024-06-20 20:38:04
+# Update time: 2024-06-21 09:25:31
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -530,7 +530,6 @@ rgmechanicsgames.com*VPN.exe
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
 ||fapnado.*.php|
-criptlet("prevent-window-open")
 ||itechpost.com*adbk
 |lgtvsdp.com^
 |samsungcloudsolution.com^
