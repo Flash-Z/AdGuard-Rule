@@ -1,17 +1,37 @@
-# Update time: 2024-06-24 20:39:05
+# Update time: 2024-06-25 09:26:57
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
 ! Expires: 1 day (update frequency)
 
 ||report.*.qq.com^
+||allyes.
+||icast.
+||gg.
+||union.
+||ad.
+||ads.
+||cnzz.
+||adsfile.
+||adserver.
+||adpic.
+||sax.sina.
+||biz5.
+||adsense.
+||xmindchina.
+||ggg.
+||admaster.
+||googleadservices.
+||irs01.
+||saxs.sina.
+||adsame.
+||onetrust.
 ||adx.
 ||adx-
 ||adsfs.
 ||adsdk.
 MRelateFeedAd
 ||adsmind.
-||adsfile.
 ||bigdata.
 ||sell*.etlong.com^
 ||smartads.
@@ -22,11 +42,8 @@ MRelateFeedAd
 ||adstats.
 ||toujing*.top^
 ||popup.*.js*
-||ggg.
 ||advert.
-||irs01.
 ||advert-
-||allyes.
 ||adcolony.
 ||advertising.
 ||showad*
@@ -46,22 +63,18 @@ getAds|
 ||appjiagu.
 ||img.piaosugo.com*.jpg
 ||adsmis.
-||adserver.
 ||sense-*.tapdb.net^
 ||pc.min.js*
 ||minero-proxy-*now.sh
 ||pagead2.
 ||guangyaoli.
-||adsense.
 ||ading.
 ||googleads.
 ||umengacs.
 ||ads-
-||ad.
 piao.js|
 oHead6205.appendChild( oScript6205);
 ||ad-
-||ads.
 ||vali-g1.cp31.ott.cibntv.net*.mp4
 ||adxapi.
 ||adsence.
@@ -71,19 +84,6 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-||icast.
-||gg.
-||union.
-||adpic.
-||cnzz.
-||sax.sina.
-||biz5.
-||xmindchina.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
-||onetrust.
 @@||adobeid-*.services.adobe.com^
 @@||cdn*.porn300.com^
 ||sax*.sina.
@@ -96,7 +96,9 @@ advertisers.js|
 ||fanpingbi*.gaokao.com^
 ||txhfgwgkwt*.asia^
 ||dn*.ixinwei.com^
+||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
+||ac*.786ip.com^
 728x90.jpg|
 ||iwanshang*.asia^
 ||ya*.dwstatic.com^
@@ -105,6 +107,7 @@ advertisers.js|
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
+||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -113,6 +116,7 @@ advertisers.js|
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
+||ac*.faxingchina.com^
 ||fpb1.chinacar.
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
@@ -254,14 +258,12 @@ advertisers.js|
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
 ||api*.bidmachine.io^
-||ac*.786ip.com^
 ||sock*-goguardian.pusher.com^
 ||geotargetly-api-*.com^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||bj1*.online^
-||ac*.pingguolv.com^
 ||marketplace-*.hyprmx.com^
 ||mistat.*.xiaomi.com^
 ||ad*.ettoday.net^
@@ -281,7 +283,6 @@ advertisers.js|
 ||ads*.textra.me^
 ||aj2*.online^
 ||cs*.mp3bars.com^
-||tracking-v*.a.run.app^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
@@ -333,6 +334,7 @@ advertisers.js|
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||batchlogging*-eu.truecaller.com^
 ||stats-*.p2pnow.ru^
+||yhsfsdv*.com^
 ||thezbpe5*.xyz^
 ||eum*.instana.io^
 ||ads*-normal-lq.zijieapi.com^
@@ -352,6 +354,7 @@ advertisers.js|
 ||rum*.a.trbcdn.net^
 ||w*.*skwai.com^
 ||analytics-*-nfl.yinzcam.com^
+||xlog*-*.tiktokv.com^
 ||ad*.on.cc^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
@@ -368,7 +371,6 @@ advertisers.js|
 ||collector-*.px-cdn.net^
 ||ads*.zijieapi.com^
 ||host*.polaroid.com^
-||www.xxmh*.com^
 ||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||n*adserv.com^
@@ -378,13 +380,10 @@ advertisers.js|
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
 ||mobileanalytics.*.amazonaws.com^
-||tracking.*.miui.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
-||a*.chajiaotong.com^
 ||gads*s.com^
-||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
@@ -400,7 +399,6 @@ advertisers.js|
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
 ||ads*-normal*.zijieapi.com^
-||ac*.faxingchina.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||adcs-*.myappsget.com^
@@ -416,7 +414,6 @@ advertisers.js|
 ||app-analytics-*.snapchat.com^
 ||px*.mediahills.ru^
 ||matomo.*.vn^
-||ubacollect-*.cloud.dbankcloud.cn^
 ||appanalysis*.banggood.com^
 ||maas-*.phunware.com^
 ||api*.batmobi.net^
@@ -464,16 +461,17 @@ advertisers.js|
 ||grs.dbankcloud.
 ||gtmdev.jabra.
 ||collector.hamsterix.
+||tracking-v*.a.run.app^
 ||tracking.olx.
 ||sta.extreme-down.
 ||adservice.google.
 ||a*.smlog.co.kr^
 ||analytics-api.dvdfab.
-||xlog*-*.tiktokv.com^
 ||track.zalando.
 ||seller-log-collector.shopee.
 ||sta.zone-telechargement.
 ||t.delfi.
+||ubacollect-*.cloud.dbankcloud.cn^
 ||sgtm.fashionunited.
 ||ubt.tracking.shopee.
 ||cnt.proporn.
@@ -482,23 +480,25 @@ advertisers.js|
 ||stats.zone-telechargement.
 ||cnt.tubeon.
 ||df.infra.sz.shopee.
+||www.xxmh*.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||pixel.archive.
 ||wa.gmx.
 ||track.tiara.
 ||bc.geocities.
 ||cnt.yeptube.
+||tracking.*.miui.com^
 ||cnt.hd21.
 |piwik.
 ||pixel*.adswizz.com
 ||tccd.douglas.
 ||cnt.nuvid.
 ||servo-report.dvdfab.
+||trk*.vidible.tv^
 ||invenio_tracking_*.sgnapps.com^
 ||analytics.ticketmaster.
 ||backstory.ebay.
 ||analytics.streamfab.
-||yhsfsdv*.com^
 ||log-collector.shopee.
 directtrack.*.js
 ||stat.tiara.
