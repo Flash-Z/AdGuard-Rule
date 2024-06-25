@@ -1,4 +1,4 @@
-# Update time: 2024-06-25 09:26:57
+# Update time: 2024-06-25 20:38:16
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -5498,6 +5498,7 @@
 0.0.0.0 aetv.112.2o7.net
 0.0.0.0 scripts.verticalacuity.com
 0.0.0.0 jl-mag.de
+0.0.0.0 myrogers-dashboard-signin.net
 0.0.0.0 c.latam.msn.com
 0.0.0.0 gbr-carat-tracking.adalyser.com
 0.0.0.0 mmoframes.com
