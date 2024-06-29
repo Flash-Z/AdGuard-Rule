@@ -1,4 +1,4 @@
-# Update time: 2024-06-28 20:38:40
+# Update time: 2024-06-29 09:25:28
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -14,7 +14,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -48,6 +47,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -509,3 +509,36 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||wa.gmx.
 ||track.tiara.
 ||df.infra.shopee.
+||sf*-fe-tos.pglstatp-toutiao.com^
+||log-api.pangolin-sdk-toutiao-*.com^
+||v*-be-pack.pglstatp-toutiao.com^
+||s*a.pstatp.com^
+||rgfftupf.
+||gamenguide.com*adbk
+||s*-fe-scm.pglstatp-toutiao.com^
+|samsungcloudsolution.net^
+||centent.streamp1ay.
+||142.91.159.
+||allsportsflix.
+||oempprd.samsungcloudsolution.
+||23.109.87.
+Banner468x60
+||ads*.opensubtitles.org^
+rgmechanicsgames.com*VPN.exe
+||23.109.82.
+||get-me-wow.
+||tnc3-bjlgy.snssdk.^
+||sf*-be-pack.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+||fapnado.*.php|
+||itechpost.com*adbk
+|lgtvsdp.com^
+|samsungcloudsolution.com^
+||158.247.208.
+||access*.tpns.tencent.com^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||fxhpaoxqyajvmdg.
+||spryptvqguhpwt^
+||access.pangolin-sdk-toutiao-*.com^
+||cintent.streanplay.
