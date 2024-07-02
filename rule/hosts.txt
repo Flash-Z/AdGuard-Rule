@@ -1,4 +1,4 @@
-# Update time: 2024-07-01 20:40:30
+# Update time: 2024-07-02 09:33:50
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -4826,6 +4826,7 @@
 0.0.0.0 ad.pravda.ru
 0.0.0.0 ad.adition.net
 0.0.0.0 nst.broadcast.pm
+0.0.0.0 prfctlivs.click
 0.0.0.0 bodyfitness-epernon.fr
 0.0.0.0 fnactickets.fr
 0.0.0.0 kh7.kimhasa.com
