@@ -1,4 +1,4 @@
-# Update time: 2024-07-03 09:33:12
+# Update time: 2024-07-03 20:38:54
 [AdguardRules by Flash-Z]
 ! Title: AdguardRules by Flash-Z
 ! Homepage: https://github.com/Flash-Z/AdGuard-Rule
@@ -84,8 +84,6 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn*.porn300.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -126,6 +124,8 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn*.porn300.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
