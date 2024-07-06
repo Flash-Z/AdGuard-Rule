@@ -4,9 +4,9 @@ on:
     paths-ignore:
       - 'README.md'
       - '*.md'
-    branches: [ main ]
-  schedule:
-    - cron: 0 */12 * * *
+  #   branches: [ main ]
+  # schedule:
+  #   - cron: 0 */12 * * *
   workflow_dispatch:
 
 env:
